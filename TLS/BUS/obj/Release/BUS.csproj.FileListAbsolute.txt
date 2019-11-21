@@ -1,0 +1,15 @@
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Release\BUS.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Release\BUS.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Release\BUS.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Release\BUS.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Release\BUS.dll.config
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Release\BUS.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Release\BUS.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Release\BUS.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Release\BUS.pdb

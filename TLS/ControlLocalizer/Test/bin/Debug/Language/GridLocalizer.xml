@@ -1,0 +1,572 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <GridLocalizer name="GridStringId.FileIsNotFoundError">
+    <value>File {0} is not found</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.ColumnViewExceptionMessage">
+    <value> Do you want to correct the value?</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomizationCaption">
+    <value>Customization</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomizationColumns">
+    <value>Columns</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomizationBands">
+    <value>Bands</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FilterPanelCustomizeButton">
+    <value>Edit Filter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PopupFilterAll">
+    <value>(All)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PopupFilterCustom">
+    <value>(Custom)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PopupFilterBlanks">
+    <value>(Blanks)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PopupFilterNonBlanks">
+    <value>(Non blanks)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogFormCaption">
+    <value>Custom AutoFilter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogCaption">
+    <value>Show rows where:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogRadioAnd">
+    <value>&amp;And</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogRadioOr">
+    <value>O&amp;r</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogOkButton">
+    <value>&amp;OK</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogClearFilter">
+    <value>C&amp;lear Filter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialog2FieldCheck">
+    <value>Field</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogCancelButton">
+    <value>&amp;Cancel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogEmptyValue">
+    <value>(Enter a value)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogEmptyOperator">
+    <value>(Select an operator)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomFilterDialogHint">
+    <value>Use _ to represent any single character#Use % to represent any series of characters</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.WindowErrorCaption">
+    <value>Error</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterSum">
+    <value>Sum</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterMin">
+    <value>Min</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterMax">
+    <value>Max</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterCount">
+    <value>Count</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterAverage">
+    <value>Average</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterNone">
+    <value>None</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterSumFormat">
+    <value>SUM={0:0.##}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterMinFormat">
+    <value>MIN={0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterMaxFormat">
+    <value>MAX={0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterCountFormat">
+    <value>{0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterAverageFormat">
+    <value>AVG={0:0.##}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnSortAscending">
+    <value>Sort Ascending</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnSortDescending">
+    <value>Sort Descending</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnShowColumn">
+    <value>Show This Column</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnRemoveColumn">
+    <value>Hide This Column</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroup">
+    <value>Group By This Column</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnUnGroup">
+    <value>UnGroup</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnColumnCustomization">
+    <value>Column Chooser</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnBandCustomization">
+    <value>Column/Band Chooser</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnBestFit">
+    <value>Best Fit</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFilter">
+    <value>Can Filter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnClearFilter">
+    <value>Clear Filter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnBestFitAllColumns">
+    <value>Best Fit (all columns)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnResetGroupSummarySort">
+    <value>Clear Summary Sorting</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupSummarySortFormat">
+    <value>{1} by '{0}' - {2}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnSumSummaryTypeDescription">
+    <value>Sum</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnMinSummaryTypeDescription">
+    <value>Min</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnMaxSummaryTypeDescription">
+    <value>Max</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnCountSummaryTypeDescription">
+    <value>Count</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnAverageSummaryTypeDescription">
+    <value>Average</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnCustomSummaryTypeDescription">
+    <value>Custom</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnSortGroupBySummaryMenu">
+    <value>Sort by Summary</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalMenu">
+    <value>Group Interval</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalNone">
+    <value>None</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalDay">
+    <value>Day</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalMonth">
+    <value>Month</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalYear">
+    <value>Year</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupIntervalSmart">
+    <value>Smart</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupSummaryEditor">
+    <value>Group Summary Editor...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnExpressionEditor">
+    <value>Expression Editor...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnConditionalFormatting">
+    <value>Conditional Formatting</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFilterMode">
+    <value>Filter Mode</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFilterModeValue">
+    <value>Value</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFilterModeDisplayText">
+    <value>Display Text</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuGroupPanelFullExpand">
+    <value>Full Expand</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuGroupPanelFullCollapse">
+    <value>Full Collapse</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuGroupPanelClearGrouping">
+    <value>Clear Grouping</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuGroupPanelShow">
+    <value>Show Group By Box</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuGroupPanelHide">
+    <value>Hide Group By Box</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerGridView">
+    <value>Print Settings (Grid View)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerCardView">
+    <value>Print Settings (Card View)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerLayoutView">
+    <value>Print Settings (Layout View)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerBandedView">
+    <value>Print Settings (Banded View)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerBandHeader">
+    <value>Band Header</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnGroupBox">
+    <value>Group By Box</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CardViewNewCard">
+    <value>New Card</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CardViewQuickCustomizationButton">
+    <value>Customize</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CardViewQuickCustomizationButtonFilter">
+    <value>Filter</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CardViewQuickCustomizationButtonSort">
+    <value>Sort:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CardViewCaptionFormat">
+    <value>Record N {0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GridGroupPanelText">
+    <value>Drag a column header here to group by that column</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GridNewRowText">
+    <value>Click here to add a new row</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GridOutlookIntervals">
+    <value>Older;Last Month;Earlier this Month;Three Weeks Ago;Two Weeks Ago;Last Week;;;;;;;;Yesterday;Today;Tomorrow;;;;;;;;Next Week;Two Weeks Away;Three Weeks Away;Later this Month;Next Month;Beyond Next Month;</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.PrintDesignerDescription">
+    <value>Set up various printing options for the current view.</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterCustomFormat">
+    <value>Custom={0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterCountGroupFormat">
+    <value>Count={0}</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnClearSorting">
+    <value>Clear Sorting</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnClearAllSorting">
+    <value>Clear All Sorting</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFilterEditor">
+    <value>Filter Editor...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnAutoFilterRowHide">
+    <value>Hide Auto Filter Row</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnAutoFilterRowShow">
+    <value>Show Auto Filter Row</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFindFilterHide">
+    <value>Hide Find Panel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuColumnFindFilterShow">
+    <value>Show Find Panel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FilterBuilderOkButton">
+    <value>&amp;OK</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FilterBuilderCancelButton">
+    <value>&amp;Cancel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FilterBuilderApplyButton">
+    <value>&amp;Apply</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FilterBuilderCaption">
+    <value>Filter Editor</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomizationFormColumnHint">
+    <value>Drag and drop columns here to customize layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CustomizationFormBandHint">
+    <value>Drag and drop bands here to customize layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewSingleModeBtnHint">
+    <value>One Card</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewRowModeBtnHint">
+    <value>One Row</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewColumnModeBtnHint">
+    <value>One Column</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewMultiRowModeBtnHint">
+    <value>Multiple Rows</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewMultiColumnModeBtnHint">
+    <value>Multiple Columns</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCarouselModeBtnHint">
+    <value>Carousel Mode</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewPanBtnHint">
+    <value>Panning</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCustomizeBtnHint">
+    <value>Customization</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCloseZoomBtnHintClose">
+    <value>Restore View</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCloseZoomBtnHintZoom">
+    <value>Maximize Detail</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonApply">
+    <value>&amp;Apply</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonPreview">
+    <value>Show &amp;More Cards</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonOk">
+    <value>&amp;OK</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonCancel">
+    <value>&amp;Cancel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonSaveLayout">
+    <value>Sa&amp;ve Layout...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonLoadLayout">
+    <value>&amp;Load Layout...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewFormLoadLayoutCaption">
+    <value>Load Layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewFormSaveLayoutCaption">
+    <value>Save Layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonCustomizeShow">
+    <value>&amp;Show Customization</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonCustomizeHide">
+    <value>Hide Customi&amp;zation</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonReset">
+    <value>&amp;Reset Template Card</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewButtonShrinkToMinimum">
+    <value>&amp;Shrink Template Card</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewPageTemplateCard">
+    <value>Template Card</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewPageViewLayout">
+    <value>View Layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupCustomization">
+    <value>Customization</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupCaptions">
+    <value>Captions</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupIndents">
+    <value>Indents</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupHiddenItems">
+    <value>Hidden Items</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupTreeStructure">
+    <value>Layout Tree View</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupPropertyGrid">
+    <value>Property Grid</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelTextIndent">
+    <value>Text Indents</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelPadding">
+    <value>Padding</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelSpacing">
+    <value>Spacing</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelCaptionLocation">
+    <value>Field Caption Location:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelGroupCaptionLocation">
+    <value>Group Caption Location:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelTextAlignment">
+    <value>Field Caption Text Alignment:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupView">
+    <value>View</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupLayout">
+    <value>Layout</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupCards">
+    <value>Cards</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupFields">
+    <value>Fields</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowLines">
+    <value>Show Lines</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowHeaderPanel">
+    <value>Show Header Panel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowFilterPanel">
+    <value>Show Filter Panel:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelScrollVisibility">
+    <value>Scroll Visibility:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelViewMode">
+    <value>View Mode:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelCardArrangeRule">
+    <value>Arrange Rule:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelCardEdgeAlignment">
+    <value>Card Edge Alignment:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewGroupIntervals">
+    <value>Intervals</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelHorizontal">
+    <value>Horizontal Interval</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelVertical">
+    <value>Vertical Interval</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowCardCaption">
+    <value>Show Caption</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowCardExpandButton">
+    <value>Show Expand Button</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowCardBorder">
+    <value>Show Border</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelAllowFieldHotTracking">
+    <value>Allow Hot-Tracking</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowFieldBorder">
+    <value>Show Border</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewLabelShowFieldHint">
+    <value>Show Hint</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCustomizationFormCaption">
+    <value>LayoutView Customization</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCustomizationFormDescription">
+    <value>Customize the card layout using drag-and-drop and customization menu, and preview data in the View Layout page.</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutModifiedWarning">
+    <value>The layout has been modified.
+Do you want to save the changes?</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewCardCaptionFormat">
+    <value>Record [{0} of {1}]</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.LayoutViewFieldCaptionFormat">
+    <value>{0}:</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorFormCaption">
+    <value>Group Summary Editor</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorFormOkButton">
+    <value>OK</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorFormCancelButton">
+    <value>Cancel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorFormItemsTabCaption">
+    <value>Items</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorFormOrderTabCaption">
+    <value>Order</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorSummaryMin">
+    <value>Min</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorSummaryMax">
+    <value>Max</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorSummaryAverage">
+    <value>Average</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorSummarySum">
+    <value>Sum</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.GroupSummaryEditorSummaryCount">
+    <value>Count</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FindControlFindButton">
+    <value>Find</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FindControlClearButton">
+    <value>Clear</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.SearchLookUpMissingRows">
+    <value>To show all rows, press ENTER or click Find.
+To search for rows, type a search string and press ENTER or click Find.</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.SearchLookUpAddNewButton">
+    <value>Add New</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterAddSummaryItem">
+    <value>Add New Summary</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuFooterClearSummaryItems">
+    <value>Clear Summary Items</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuShowSplitItem">
+    <value>Split</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.MenuHideSplitItem">
+    <value>Remove Split</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.ServerRequestError">
+    <value>Error occurred during processing server request ({0}...)</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.WindowWarningCaption">
+    <value>Warning</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.EditFormUpdateButton">
+    <value>Update</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.EditFormCancelButton">
+    <value>Cancel</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.EditFormCancelMessage">
+    <value>Do you want to cancel editing?</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.EditFormSaveMessage">
+    <value>Your data is modified. Do you want to save the changes?</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.CheckboxSelectorColumnCaption">
+    <value>Selection</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.FindNullPrompt">
+    <value>Enter text to search...</value>
+  </GridLocalizer>
+  <GridLocalizer name="GridStringId.SearchForBand">
+    <value>Search for a band...</value>
+  </GridLocalizer>
+</NewDataSet>

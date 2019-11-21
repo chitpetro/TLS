@@ -1,0 +1,568 @@
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\GUI.exe.config
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\GUI.exe
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\GUI.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\BUS.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ControlLocalizer.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.BonusSkins.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Charts.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Data.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.DataAccess.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.Xpo.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Office.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Persistent.Base.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Persistent.BaseImpl.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.PivotGrid.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Printing.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Utils.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Utils.v15.1.UI.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Xpo.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraBars.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraCharts.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraEditors.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraGauges.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraGrid.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraLayout.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraReports.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.ReportsV2.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.Reports.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.ConditionalAppearance.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraPivotGrid.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.CodeParser.v15.1.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.DataAccess.v15.1.UI.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\BUS.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ControlLocalizer.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Data.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.DataAccess.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.Xpo.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Office.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Persistent.Base.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Persistent.BaseImpl.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.PivotGrid.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Printing.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Utils.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Utils.v15.1.UI.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.Xpo.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraBars.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraCharts.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraEditors.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraGauges.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraGrid.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraLayout.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraReports.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.ReportsV2.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.Reports.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.ExpressApp.ConditionalAppearance.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraPivotGrid.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.DataAccess.v15.1.UI.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\bin\Release\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.FrmPhanQuyen.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_account.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_connectDB.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dmtk.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_doidv.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dscct.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_History.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dspchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_chotcongto.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_login.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_sodo.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_hd_khach.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_hd_khachno.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_hd.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_nhomdoituong.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dshd.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dspthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_PN.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_pchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_pthu_tt.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_pthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_pnhap.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_giasp.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_sanpham.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_doituong.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_donvi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_dvql.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_main.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_Skin.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themdmtk.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themsodo.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themnhomdoituong.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themgiaban.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themsanpham.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themdoituong.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themaccount.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themdonvi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_themtiente.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.f_tiente.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\Lotus.Libraries.CustomBox.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.PrintRibbonControllerResources.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Properties.Resources.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_thcnncc.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_thcnncc.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_thcnkh.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_ctcnncc.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_ctcnncc.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_lailo.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_doanhthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_doanhthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_thuchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_ctcnkh.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_chitietpthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_chitietchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_chitietnhapxuat.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_tonfifo.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_xuattheokho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_chitietxuatkho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_nhaptheokho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.f_chitietnhapkho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.Report.Nhap.r_chitietnhapkho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_pchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_pnhap.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_pthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_pxuat.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_nhaptheokho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_chitietxuatkho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_xuattheokho.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_tonfifo.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_chitietpchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_chitietthu.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_sothuchi.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_ctcnkh.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_thcnkh.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.r_chitietnhapxuat.resources
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.exe.licenses
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.exe
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\obj\Release\GUI.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\GUI.exe.config
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.exe
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\GUI.exe
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\GUI.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\BUS.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ControlLocalizer.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.BonusSkins.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Charts.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Data.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.DataAccess.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.Xpo.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Office.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Persistent.Base.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Persistent.BaseImpl.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.PivotGrid.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Printing.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Utils.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Utils.v15.1.UI.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Xpo.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraBars.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraCharts.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraEditors.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraGauges.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraGrid.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraLayout.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraReports.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.ReportsV2.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.Reports.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.ConditionalAppearance.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraScheduler.v15.1.Core.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraPivotGrid.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.CodeParser.v15.1.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.DataAccess.v15.1.UI.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\BUS.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ControlLocalizer.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Data.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.DataAccess.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.Xpo.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Office.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Persistent.Base.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Persistent.BaseImpl.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.PivotGrid.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Printing.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Utils.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Utils.v15.1.UI.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.Xpo.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraBars.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraCharts.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraEditors.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraGauges.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraGrid.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraLayout.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraReports.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.ReportsV2.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.Reports.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.ExpressApp.ConditionalAppearance.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraScheduler.v15.1.Core.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraPivotGrid.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.DataAccess.v15.1.UI.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.ExpressApp.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.ExpressApp.ReportsV2.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.ExpressApp.Reports.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraScheduler.v15.1.Core.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\bin\Release\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.FrmPhanQuyen.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_account.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_connectDB.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dmtk.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_doidv.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dscct.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_kiemke.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_History.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dspchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_chotcongto.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_login.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_sodo.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_hd_khach.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_hd_khachno.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_hd.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_nhomdoituong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dshd.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dspthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_PN.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_pchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_pthu_tt.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_pthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_pnhap.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_giasp.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_sanpham.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_doituong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_donvi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_dvql.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_main.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_Skin.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themdmtk.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themkiemke.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themsodo.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themnhomdoituong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themgiaban.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themsanpham.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themdoituong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themaccount.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themdonvi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_themtiente.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.f_tiente.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\Lotus.Libraries.CustomBox.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.PrintRibbonControllerResources.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Properties.Resources.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_thcnncc.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_thcnncc.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_thcnkh.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_ctcnncc.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_ctcnncc.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_lailo.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_doanhthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_doanhthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_thuchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_ctcnkh.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_chitietpthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_chitietchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_chitietnhapxuat.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_tonfifo.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_tonfifo_duphong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_tonfifo_2.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_tonfifo_duphong.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_xuattheokho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_chitietxuatkho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_nhaptheokho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.f_chitietnhapkho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.Report.Nhap.r_chitietnhapkho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_pchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_pnhap.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_pthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_pxuat.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_nhaptheokho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_chitietxuatkho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_xuattheokho.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_tonfifo.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_chitietpchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_chitietthu.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_sothuchi.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_ctcnkh.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_thcnkh.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_chitietnhapxuat.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.r_dscct.resources
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\HOCTAP\WinForm\03102017\PLS\GUI\obj\Release\GUI.exe.licenses

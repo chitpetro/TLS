@@ -1,0 +1,5416 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Language>
+    <name>f_main.ribbonStatusBar</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang</name>
+    <value>chức năng</value>
+    <Vietnam />
+    <Lao>ຄຸນສົມບັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grcongto</name>
+    <value>Chốt Công Tơ</value>
+    <Vietnam>Chốt Công Tơ</Vietnam>
+    <Lao>ການບັນທຶກກົງເຕີ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grcongto.btncongto</name>
+    <value>Chốt Công Tơ</value>
+    <Vietnam>Chốt Công Tơ</Vietnam>
+    <Lao>ການບັນທຶກກົງເຕີ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grbanhang</name>
+    <value>Bán Hàng</value>
+    <Vietnam>Bán Hàng</Vietnam>
+    <Lao>ການຂາຍສິນຄ້າ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grbanhang.btnpnhap</name>
+    <value>Phiếu Nhập Kho</value>
+    <Vietnam>Phiếu Nhập Kho</Vietnam>
+    <Lao>ໃບບັນທຶກການນໍາເຂົ້າສິນຄ້າເຂົ້າສາງ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grbanhang.btnxuat</name>
+    <value>Bán Hàng kiêm xuất kho</value>
+    <Vietnam>Bán Hàng Kiêm Xuất Kho</Vietnam>
+    <Lao>ໃບບັນທຶກການຂາຍ ແລະການສົ່ງສິນຄ້າອອກຈາກສາງ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grtienmat</name>
+    <value>Tiền mặt</value>
+    <Vietnam>Tiền mặt</Vietnam>
+    <Lao>ເງິນສົດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grtienmat.btnpthu</name>
+    <value>Phiếu thu tiền mặt</value>
+    <Vietnam>Phiếu Thu Tiền Mặt</Vietnam>
+    <Lao>ໃບເກັບເງິນສົດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grtienmat.btnpchi</name>
+    <value>Phiếu chi tiền mặt</value>
+    <Vietnam>Phiếu Chi Tiền Mặt</Vietnam>
+    <Lao>ໃບຈ່າຍເງິນສົດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc</name>
+    <value>danh mục</value>
+    <Vietnam>Danh mục</Vietnam>
+    <Lao>ລາຍການ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grdoituong</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grdoituong.btnNhomDT</name>
+    <value>Nhóm đối tượng</value>
+    <Vietnam>Nhóm đối tượng</Vietnam>
+    <Lao>ກຸ່ມເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grdoituong.btndoituong</name>
+    <value>Đối tượng</value>
+    <Vietnam>Đối tượng</Vietnam>
+    <Lao>ເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grsanpham</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grsanpham.btnsanpham</name>
+    <value>Sản phẩm</value>
+    <Vietnam>Sản phẩm</Vietnam>
+    <Lao>ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.grsanpham.btngiasp</name>
+    <value>Giá Bán</value>
+    <Vietnam>Giá bán</Vietnam>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphopdong</name>
+    <value>Hợp đồng</value>
+    <Vietnam>Hợp đồng</Vietnam>
+    <Lao>ສັນຍາ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao</name>
+    <value>Báo cáo</value>
+    <Vietnam>Báo cáo</Vietnam>
+    <Lao>ການລາຍງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukho</name>
+    <value>Báo Cáo Kho</value>
+    <Vietnam>Báo cáo kho</Vietnam>
+    <Lao>ການລາຍງານຂອງສາງ
+</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbctienmat</name>
+    <value>Tiền mặt</value>
+    <Vietnam>Tiền mặt</Vietnam>
+    <Lao>ເງິນສົດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbctienmat.btnthuchi</name>
+    <value>Sổ Chi Tiết Thu Chi</value>
+    <Vietnam>Sổ chi tiết thu chi</Vietnam>
+    <Lao>ປື້ມລະອຽດຂອງລາຍຮັບ-ຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbctienmat.btnbcchi</name>
+    <value>Báo Cáo Chi</value>
+    <Vietnam>Báo cáo chi</Vietnam>
+    <Lao>ລາຍງານລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbctienmat.btnthu</name>
+    <value>Báo Cáo Thu</value>
+    <Vietnam>Báo cáo thu</Vietnam>
+    <Lao>ລາຍງານລາຍຮັບ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno</name>
+    <value>Công Nợ</value>
+    <Vietnam>Công nợ</Vietnam>
+    <Lao>ໜີ້ສິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menukhachhang</name>
+    <value>Khách Hàng</value>
+    <Vietnam>Khách hàng</Vietnam>
+    <Lao>ລູກຄ້າ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menunhacungcap</name>
+    <value>Nhà Cung Cấp</value>
+    <Vietnam>Nhà cung cấp</Vietnam>
+    <Lao>ຜູ້ສະໜອງ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckinhdoanh</name>
+    <value>Kinh Doanh</value>
+    <Vietnam>Kinh doanh</Vietnam>
+    <Lao>ການທຸລິກິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckinhdoanh.btndoanhthu</name>
+    <value>Doanh Thu Bán Hàng</value>
+    <Vietnam>Doanh Số Bán Hàng</Vietnam>
+    <Lao>ລາຍຮັບຂອງການຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckinhdoanh.btnketquakd</name>
+    <value>Báo Cáo Kết Quả Kinh Doanh</value>
+    <Vietnam>Báo cáo kết quả kinh doanh</Vietnam>
+    <Lao>ລາຍງານຜົນການດໍາເນີນທຸລະກິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong</name>
+    <value>Hệ thống</value>
+    <Vietnam>Hệ thống</Vietnam>
+    <Lao>ລະບົບ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.groption</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.groption.menuoption</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grtaikhoan</name>
+    <value>Tài khoản          </value>
+    <Vietnam>Tài khoản</Vietnam>
+    <Lao>ບັນຊີ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grtaikhoan.btnaccount</name>
+    <value>Tài khoản</value>
+    <Vietnam>Tài khoản </Vietnam>
+    <Lao>ບັນຊີ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grtaikhoan.btndangxuat</name>
+    <value>Đăng xuất</value>
+    <Vietnam>Đăng xuất</Vietnam>
+    <Lao>ອອກຈາກລະບົບ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grdonvi</name>
+    <value>Đơn vị</value>
+    <Vietnam>Đơn vị</Vietnam>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grdonvi.btndonvi</name>
+    <value>Đơn vị</value>
+    <Vietnam>Đơn vị</Vietnam>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.grdonvi.btndoidv</name>
+    <value>Đổi đơn vị</value>
+    <Vietnam>Đổi đơn vị</Vietnam>
+    <Lao>ປ່ຽນຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>FrmMain.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem1</name>
+    <value>Đường dẫn</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnSave</name>
+    <value>Lưu</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnActive</name>
+    <value>Kích hoạt</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem5</name>
+    <value>Ngôn ngữ</value>
+    <Vietnam>Ngôn ngữ</Vietnam>
+    <Lao>ພາສາ</Lao>
+  </Language>
+  <Language>
+    <name>FrmMain.btnShowPreviewer</name>
+    <value>Mở previewer</value>
+    <Vietnam>Mở previewer</Vietnam>
+  </Language>
+  <Language>
+    <name>f_main.Trung Tâm Thương Mại Thatluang Plaza</name>
+    <value>PM</value>
+    <Vietnam />
+  </Language>
+  <Language>
+    <name>f_History.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn1</name>
+    <value>Đơn vị</value>
+    <Vietnam>Đơn vị</Vietnam>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn2</name>
+    <value>Họa động</value>
+    <Vietnam>Hoạt động</Vietnam>
+    <Lao>ການເຄື່ອນໄຫວ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn3</name>
+    <value>Số chứng từ</value>
+    <Vietnam>Số chứng từ</Vietnam>
+    <Lao>ເອກະສານເລກທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn4</name>
+    <value>Tài khoản</value>
+    <Vietnam>Tài khoản</Vietnam>
+    <Lao>ຊື່ບັນຊີ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn5</name>
+    <value>Máy trạm - IP</value>
+    <Vietnam>Máy trạm - IP</Vietnam>
+    <Lao>ສູນລວມ - ລະຫັດ IP</Lao>
+  </Language>
+  <Language>
+    <name>f_History.gridControl1.gridColumn6</name>
+    <value>Thời gian</value>
+    <Vietnam>Thời gian</Vietnam>
+    <Lao>ເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Vietnam>Chọn thời gian tìm kiếm</Vietnam>
+    <Lao>ເລືອກເວລາຊອກຫາຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Vietnam>Đến ngày:</Vietnam>
+    <Lao>ເຖິງວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Vietnam>Khoảng thời gian:</Vietnam>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_History.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_History.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Vietnam>Từ ngày:</Vietnam>
+    <Lao>ແຕ່ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_History.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_History.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlGroup2</name>
+    <value>Thông Tin</value>
+    <Vietnam>Thông tin</Vietnam>
+    <Lao>ຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Vietnam>Đơn vị</Vietnam>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlItem5</name>
+    <value>Ngày Lập</value>
+    <Vietnam>Ngày Lập</Vietnam>
+    <Lao>ວັນທີ່ຕັ້ງ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlItem4</name>
+    <value>Mã Số</value>
+    <Vietnam>Mã Số</Vietnam>
+    <Lao>ເລກລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn57</name>
+    <value>stt</value>
+    <Vietnam />
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn35</name>
+    <value>idct</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn36</name>
+    <value>Cột Bơm</value>
+    <Vietnam>Cột Bơm</Vietnam>
+    <Lao>ຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn37</name>
+    <value>Vòi Bơm</value>
+    <Vietnam>Vòi Bơm</Vietnam>
+    <Lao>ມືຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn38</name>
+    <value>Mã SP</value>
+    <Vietnam>Mã SP</Vietnam>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn39</name>
+    <value>Chốt Công Tơ Mở</value>
+    <Vietnam>Công Tơ Mở</Vietnam>
+    <Lao>ເລກກົງເຕີເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn40</name>
+    <value>Chốt Công Tơ Đóng</value>
+    <Vietnam>Công Tơ Đóng</Vietnam>
+    <Lao>ເລກກົງເຕີປິດ </Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn45</name>
+    <value>Thử</value>
+    <Vietnam>Thử</Vietnam>
+    <Lao>ການທົດລອງຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn53</name>
+    <value>Số Lượng</value>
+    <Vietnam>Số Lượng</Vietnam>
+    <Lao>ຈຳນວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn54</name>
+    <value>Đơn Giá</value>
+    <Vietnam>Đơn Giá</Vietnam>
+    <Lao>ລາຄາຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn55</name>
+    <value>Thành Tiền</value>
+    <Vietnam>Thành Tiền</Vietnam>
+    <Lao>ເປັນເງິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn58</name>
+    <value>So</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn59</name>
+    <value>Id</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gcchitiet.gridColumn56</name>
+    <value>iddv</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Vietnam>Thông Tin Nhân Viên</Vietnam>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Vietnam>Phòng Ban</Vietnam>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Vietnam>Mã Nhân Viên</Vietnam>
+    <Lao>ລະຫັດພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn65</name>
+    <value>stt</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn60</name>
+    <value>loaisp</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn61</name>
+    <value>cotbom</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn62</name>
+    <value>voibom</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn64</name>
+    <value>dongia</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gridControl3.gridColumn63</name>
+    <value>chotdau</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chotcongto.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnmo</name>
+    <value>Mở</value>
+    <Vietnam>Mở</Vietnam>
+    <Lao>  ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnthemmoi</name>
+    <value>Thêm</value>
+    <Vietnam>Thêm</Vietnam>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnLuu</name>
+    <value>Lưu</value>
+    <Vietnam>Lưu</Vietnam>
+    <Lao> ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnsua</name>
+    <value>Sửa</value>
+    <Vietnam>Sửa</Vietnam>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnxoa</name>
+    <value>Xoá</value>
+    <Vietnam>Xóa</Vietnam>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnin</name>
+    <value>In</value>
+    <Vietnam>In</Vietnam>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnnew</name>
+    <value>Thêm</value>
+    <Vietnam>Thêm</Vietnam>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnload</name>
+    <value>Reload</value>
+    <Vietnam>Reload</Vietnam>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnthanhtoan</name>
+    <value>Khách Vãng Lai</value>
+    <Vietnam>Khách Vãng Lai</Vietnam>
+    <Lao>ລູກຄ້າທົ່ວໄປ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.gia</name>
+    <value>Giá Bán</value>
+    <Vietnam>Giá Bán</Vietnam>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btngcb</name>
+    <value>group: cột bơm</value>
+    <Vietnam>Group Cột Bơm</Vietnam>
+    <Lao>ກຸ່ມຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btngmsp</name>
+    <value>group: Mã SP</value>
+    <Vietnam>Group Mã SP</Vietnam>
+    <Lao>ກຸ່ມລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnct</name>
+    <value>Group cột bơm</value>
+    <Vietnam>Group Cột Bơm</Vietnam>
+    <Lao>ກຸ່ມຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnmsp</name>
+    <value>Group mã SP</value>
+    <Vietnam>Grou Mã SP</Vietnam>
+    <Lao>ກຸ່ມລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnkhachno</name>
+    <value>Khách Nợ</value>
+    <Vietnam>Khách Nợ</Vietnam>
+    <Lao>ລູກຄ້າຄ້າງໜີ້</Lao>
+  </Language>
+  <Language>
+    <name>f_chotcongto.btnsodo</name>
+    <value>Sơ Đồ</value>
+    <Vietnam />
+    <Lao>ແຜນວາດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn3</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn1</name>
+    <value>Ngày</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn2</name>
+    <value>Mã</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn4</name>
+    <value>Cột Bơm</value>
+    <Lao>ຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn5</name>
+    <value>Vòi Bơm</value>
+    <Lao>ມືຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn12</name>
+    <value>Mã Sản Phẩm</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn6</name>
+    <value>Chốt Công tơ Mở</value>
+    <Lao>ເລກກົງເຕີເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn7</name>
+    <value>Chốt Công Tơ Đóng</value>
+    <Lao>ເລກກົງເຕີປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn8</name>
+    <value>Thử</value>
+    <Lao>ການທົດລອງ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn9</name>
+    <value>Số Lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn10</name>
+    <value>Đơn Giá</value>
+    <Lao>ລາຄາຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.gridControl1.gridColumn11</name>
+    <value>Thành Tiền</value>
+    <Lao>ເປັນເງິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Lao>ເລືອກເວລາຊອກຫາຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Lao>ເຖິງວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dscct.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_dscct.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Lao>ແຕ່ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dscct.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dscct.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_sodo.gridControl1.coltensp</name>
+    <value>Cột Bơm</value>
+    <Lao>ຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.gridControl1.coldvt</name>
+    <value>Vòi Bơm</value>
+    <Lao>ມືຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.gridControl1.colid</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.gridControl1.gridColumn1</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_sodo.gridControl1.gridColumn2</name>
+    <value>iddv</value>
+  </Language>
+  <Language>
+    <name>f_sodo.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_sodo.btnthem</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.btnxoa</name>
+    <value>Xóa </value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_sodo.barButtonItem4</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup2</name>
+    <value>Thông tin phiếu nhập</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບັນຊີການນໍາເຂົ້າຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem5</name>
+    <value>Ngày Nhập</value>
+    <Lao>ວັນທີ່ນໍາເຂົ້າຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem4</name>
+    <value>Mã Phiếu Nhập</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem9</name>
+    <value>Loại Phiếu Nhập</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colidsanpham</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.coltensp</name>
+    <value>Tên SP</value>
+    <Lao>ຊື່ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.coldvt</name>
+    <value>ĐVT</value>
+    <Lao>ຫົວໜ່ວຍຄິິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colsoluong</name>
+    <value>Số Lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.coldongia</name>
+    <value>Đơn Giá</value>
+    <Lao>ລາຄາຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colchietkhau</name>
+    <value>Chiết Khấu</value>
+    <Lao>ສ່ວນຫຼຸດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colloaithue</name>
+    <value>Loại Thuế</value>
+    <Lao>ປະເພດຂອງອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colthue</name>
+    <value>Tiền Thuế</value>
+    <Lao>ຄ່າອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດຂອງວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colidpnhap</name>
+    <value>Mã Phiếu Nhập</value>
+    <Lao>ລະຫັດໃບບັນທຶກການນໍາເຂົ້າຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colid</name>
+    <value>ID</value>
+    <Lao>ID</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.gcchitiet.colthuesuat</name>
+    <value>Thuế Suất (%)</value>
+    <Lao>  
+ເປີແຊນຂອງອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.grncc</name>
+    <value>Thông Tin Nhà Cung Cấp</value>
+    <Lao>ຂໍ້ມູນຂອງຜູ້ສະໜອງ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlGroup1</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem31</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.layoutControlItem32</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.label1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pnhap.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pnhap.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnLuu</name>
+    <value>Lưu</value>
+    <Lao>ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnin</name>
+    <value>In</value>
+    <Lao>ປຣີນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pnhap.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_hd.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlGroup2</name>
+    <value>Thông tin hoá đơn</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem5</name>
+    <value>Ngày Lập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem4</name>
+    <value>Số Hoá Đơn</value>
+    <Lao>ເລກທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem9</name>
+    <value>Loại Hoá Đơn</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colidsanpham</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.coltensp</name>
+    <value>Tên SP</value>
+    <Lao>ຊື່ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.coldvt</name>
+    <value>ĐVT</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colsoluong</name>
+    <value>Số Lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.coldongia</name>
+    <value>Đơn Giá</value>
+    <Lao>ລາຄາຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colchietkhau</name>
+    <value>Chiết Khấu</value>
+    <Lao>ສ່ວນຫຼຸດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colloaithue</name>
+    <value>Loại Thuế</value>
+    <Lao>ປະເພດອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colthue</name>
+    <value>Tiền Thuế</value>
+    <Lao>ຄ່າອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດຂອງວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colidhoadon</name>
+    <value>Mã Hóa Đơn</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colid</name>
+    <value>ID</value>
+    <Lao />
+  </Language>
+  <Language>
+    <name>f_hd.gcchitiet.colthuesuat</name>
+    <value>Thuế Suất (%)</value>
+    <Lao>ເປີແຊນອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.grncc</name>
+    <value>Thông Tin Đối tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlGroup9</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem31</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem32</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnLuu</name>
+    <value>Lưu</value>
+    <Lao>ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_hd.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_hd.btnthanhtoan</name>
+    <value>Thanh toán</value>
+    <Lao>ຊໍາລະ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd.gia</name>
+    <value>Giá Bán</value>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlGroup2</name>
+    <value>Thông tin phiếu chi</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບັນທຶກລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem5</name>
+    <value>Ngày thu</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem4</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem9</name>
+    <value>Số Hóa Đơn</value>
+    <Lao>ລະຫັດໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem43</name>
+    <value>Loại thu</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.colloaithue</name>
+    <value>Mục Chi phí</value>
+    <Lao>ບັນຊີລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກູນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.colidpnhap</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pthu.grncc</name>
+    <value>Thông Tin Đối Tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlGroup13</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem46</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem47</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnLuu</name>
+    <value>Lưu</value>
+    <Lao>ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_pthu.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_pchi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup2</name>
+    <value>Thông tin Phiếu Chi</value>
+    <Lao>ຂໍ້ມູນຂອງລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem5</name>
+    <value>Ngày chi</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem4</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem9</name>
+    <value>Số PN</value>
+    <Lao>ໃບບັນທຶກລາຍຮັບ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem31</name>
+    <value>Loại chi</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.colloaithue</name>
+    <value>Mục Chi phí</value>
+    <Lao>ບັນຊີລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.colidpnhap</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pchi.grncc</name>
+    <value>Thông Tin Đối Tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlGroup13</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem47</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem48</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnLuu</name>
+    <value>Lưu</value>
+    <Lao>ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_pchi.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pchi.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_pchi.barButtonItem1</name>
+    <value>barButtonItem1</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_doanhthu.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_doanhthu.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell17</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell18</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell19</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell24</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell26</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell22</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.pageFooterBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrLabel1</name>
+    <value>(LAK)</value>
+  </Language>
+  <Language>
+    <name>r_doanhthu.txttime</name>
+    <value>Tháng 9, năm 2017</value>
+    <Lao />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrLabel46</name>
+    <value>BÁO CÁO DOANH THU BÁN HÀNG</value>
+    <Lao>ລາຍງານລາຍຮັບຂອງການຂາຍສິນຄ້າ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.txtkho</name>
+    <value>Đơn vị: 08-CHXD số 08, </value>
+    <Lao />
+  </Language>
+  <Language>
+    <name>r_doanhthu.reportHeaderBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell6</name>
+    <value>STT</value>
+    <Lao>ລໍາດັບ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell7</name>
+    <value>Số chứng từ</value>
+    <Lao>ເອກະສານເລກທີ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell8</name>
+    <value>Ngày ghi sổ</value>
+    <Lao>ວັນທີ່ບັນທຶກໃນປຶ້ມ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell9</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell10</name>
+    <value>Diễn giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell11</name>
+    <value>Đvt</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell12</name>
+    <value>Số lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell13</name>
+    <value>Đơn giá</value>
+    <Lao>ຫົວໜ່ວຍລາຄາ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell23</name>
+    <value>Chiết Khấu</value>
+    <Lao>ສ່ວນຫຼຸດ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell25</name>
+    <value>Thuế</value>
+    <Lao>ອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell16</name>
+    <value>Thành tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.PageHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell34</name>
+    <value>TỔNG CỘNG:</value>
+    <Lao>ລວມທັງໝົດ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell35</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell38</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell39</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.ngay2</name>
+    <value>Ngày 7, Tháng 9, Năm 2017</value>
+    <Lao />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow6</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable6</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell31</name>
+    <value>NGƯỜI LẬP</value>
+    <Lao>ຜູ້ເຮັດ</Lao>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell27</name>
+    <value>[iddv] - [tendonvi]</value>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell28</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell29</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell30</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.GroupHeader1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_doidv.gridControl1.colid</name>
+    <value>Mã Đơn Vị</value>
+    <Lao>ລະຫັດຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_doidv.gridControl1.coltendonvi</name>
+    <value>Tên Đơn Vị</value>
+    <Lao>ຊີ່ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_doidv.gridControl1.colnhomdonvi</name>
+    <value>Nhóm Đơn Vị</value>
+    <Lao>ກຸ່ມຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlGroup2</name>
+    <value>Thông tin hoá đơn</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem5</name>
+    <value>Ngày Lập</value>
+    <Lao>ວັນທີ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem4</name>
+    <value>Số Hoá Đơn</value>
+    <Lao>ໃບບິນເລກທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem9</name>
+    <value>Loại Hoá Đơn</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem24</name>
+    <value>Mã Chốt Công Tơ</value>
+    <Lao>ການບັນທຶກກົງເຕີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colidsanpham</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.coltensp</name>
+    <value>Tên SP</value>
+    <Lao>ຊື່ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.coldvt</name>
+    <value>ĐVT</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colsoluong</name>
+    <value>Số Lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.coldongia</name>
+    <value>Đơn Giá</value>
+    <Lao>ລາຄາຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colchietkhau</name>
+    <value>Chiết Khấu</value>
+    <Lao>ສ່ວນຫຼຸດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colloaithue</name>
+    <value>Loại Thuế</value>
+    <Lao>ປະເພດອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colthue</name>
+    <value>Tiền Thuế</value>
+    <Lao>ຄ່າອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ
+</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colidhoadon</name>
+    <value>Mã Hóa Đơn</value>
+    <Lao>ລະຫັດໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gcchitiet.colthuesuat</name>
+    <value>Thuế Suất (%)</value>
+    <Lao>ເປີແຊນອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.grncc</name>
+    <value>Thông Tin Đối tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gridControl2.gridColumn58</name>
+    <value>idsp</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gridControl2.gridColumn59</name>
+    <value>soluong</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gridControl2.gridColumn64</name>
+    <value>dongia</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlGroup9</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem31</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem32</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd_khach.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnLuu</name>
+    <value>Lưu &amp;&amp; Đóng</value>
+    <Lao>ບັນທຶກ ແລະ ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_hd_khach.btnthanhtoan</name>
+    <value>Thanh toán</value>
+    <Lao>ຊໍາລະ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.gia</name>
+    <value>Giá Bán</value>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.ribbonPageGroup1.btndanhmuctaikhoan</name>
+    <value>Danh Mục Tài Khoản</value>
+    <Lao>ລາຍການບັນຊີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dmtk.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dmtk.btnthem</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_dmtk.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_dmtk.btnxoa</name>
+    <value>Xóa </value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_dmtk.barButtonItem4</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>Thông tin chưa đầy đủ - Vui lòng kiểm tra lại!</name>
+    <value>Thông tin chưa đầy đủ - Vui lòng kiểm tra lại!</value>
+    <Lao>ຂໍ້ມູນຍັງບໍ່ທັນຄົບຖ້ວນ- ກະລຸນາກວດກາຄືນໃໝ່</Lao>
+  </Language>
+  <Language>
+    <name>Thông báo</name>
+    <value>Thông báo</value>
+    <Lao>ແຈ້ງການ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn1</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn2</name>
+    <value>Tên Nhân Viên</value>
+    <Lao>ຊື່ຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn3</name>
+    <value>Tên Đăng Nhập</value>
+    <Lao>ລະຫັດເຂົ້າລະບົບ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn4</name>
+    <value>Phòng Ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn5</name>
+    <value>Mã Đơn vị</value>
+    <Lao>ລະຫັດຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn6</name>
+    <value>Đơn vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.dataaccount.gridColumn7</name>
+    <value>Trạng thái</value>
+    <Lao>ສະພາບການເຄື່ອນໄຫວ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_account.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem1</name>
+    <value>thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem2</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem3</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem4</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem5</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem6</name>
+    <value>Xóa</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem7</name>
+    <value>In</value>
+    <Lao>ປຣິິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_account.barSubItem1</name>
+    <value>barSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_account.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_account.barLargeButtonItem1</name>
+    <value>barLargeButtonItem1</value>
+  </Language>
+  <Language>
+    <name>f_account.barButtonItem9</name>
+    <value>Load</value>
+  </Language>
+  <Language>
+    <name>f_themaccount.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem3</name>
+    <value>Tên Hiển Thị</value>
+    <Lao>ຊີ່ສະແດງ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem6</name>
+    <value>Tên Đăng Nhập</value>
+    <Lao>ຊີ່ບັນຊີເຂົ້າລະບົບ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem1</name>
+    <value>Mã Đơn Vị</value>
+    <Lao>ລະຫັດຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem7</name>
+    <value>Phòng Ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlGroup2</name>
+    <value>Đổi Mật Khẩu</value>
+    <Lao>ປ່ຽນລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem4</name>
+    <value>Mật Khẩu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem5</name>
+    <value>Xác Nhận Mật Khẩu</value>
+    <Lao>ຢັ້ງຢືນລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.ia</name>
+    <value>Is Actived</value>
+  </Language>
+  <Language>
+    <name>f_themaccount.layoutControlItem15</name>
+    <value>Mật Khẩu Cũ</value>
+    <Lao>ລະຫັດເກົ້າ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themaccount.btnluu</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+    <Lao>ບັນທຶກ ແລະ ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.barButtonItem2</name>
+    <value>Hủy</value>
+    <Lao>ຍົກເລີກ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.barButtonItem3</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themaccount.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>Tài khoản hoặc mật khẩu không đúng! Vui lòng kiểm tra lại!</name>
+    <value>Tài khoản hoặc mật khẩu không đúng! Vui lòng kiểm tra lại!</value>
+    <Lao>ຊື່ບັນຊີ ຫຼື ລະຫັດບໍ່ຖືກຕ້ອງ ກະລຸນາກວດກາຄືນໃໝ່</Lao>
+  </Language>
+  <Language>
+    <name>f_chitietchi.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietchi.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.nguon.gridColumn8</name>
+    <value>matim</value>
+  </Language>
+  <Language>
+    <name>f_chitietchi.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapkho.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_nhaptheokho.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietxuatkho.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_xuattheokho.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_xuattheokho.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_xuattheokho.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnsochitietnhapkho</name>
+    <value>Sổ Chi Tiết Nhập Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnnhaptheokho</name>
+    <value>Nhập Theo Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnsochitietxuatkho</name>
+    <value>Sổ Chi Tiết Xuất Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnxuattheokho</name>
+    <value>Xuất Theo Kho</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnnhapxuatton</name>
+    <value>Nhập Xuất Tồn (XTXT)</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbckho.menukhobtnnhapxuat</name>
+    <value>Chi Tiết Nhập Xuất (Sản Phẩm)</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menukhachhangbtnthcnkh</name>
+    <value>Tổng Hợp</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menukhachhangbtnctcnkh</name>
+    <value>Chi Tiết</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menunhacungcapbtnthcnncc</name>
+    <value>Tổng Hợp</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapbaocao.grbccongno.menunhacungcapbtnctcnncc</name>
+    <value>Chi Tiết</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.groption.menuoptionbtnhis</name>
+    <value>History</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.groption.menuoptionbtnngonngu</name>
+    <value>Ngôn Ngữ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.taphethong.groption.menuoptionbtnphanquyen</name>
+    <value>Phân Quyền</value>
+  </Language>
+  <Language>
+    <name>f_Skin.cancel</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_Skin.ok</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn1</name>
+    <value>Mã tài khoản</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn2</name>
+    <value>Tên tài khoản</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn3</name>
+    <value>Mã tài khoản nước ngoài</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn4</name>
+    <value>Tên tài khoản nước ngoài</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn5</name>
+    <value>Tên tài khoản khác</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn6</name>
+    <value>Tên tài khoản (kr)</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn7</name>
+    <value>Loại tài khoản</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn8</name>
+    <value>Tài khoản tổng hợp</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn9</name>
+    <value>Tài khoản mẹ</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn10</name>
+    <value>Cấp tài khoản</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn11</name>
+    <value>Tiền tệ</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn12</name>
+    <value>Kiểu số dư</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn13</name>
+    <value>Đối tượng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn14</name>
+    <value>Chi phí</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn15</name>
+    <value>Công việc</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn16</name>
+    <value>Số lượng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn17</name>
+    <value>VAT</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn18</name>
+    <value>Thanh toán công nợ</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn19</name>
+    <value>chi tiết ngân hàng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn20</name>
+    <value>tài khoản cửa hàng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn21</name>
+    <value>Hàng hóa</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn22</name>
+    <value>Sản phẩm</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn23</name>
+    <value>Loại khoản</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn24</name>
+    <value>Số tài khoản ngân hàng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn25</name>
+    <value>Ngân hàng</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn26</name>
+    <value>Mã NV- VP</value>
+  </Language>
+  <Language>
+    <name>f_dmtk.gridControl1.gridColumn27</name>
+    <value>Active</value>
+  </Language>
+  <Language>
+    <name>f_themdmtk.a2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdmtk.a4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdmtk.a1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdmtk.a3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>Bạn chưa chọn Kiểu số dư - Vui lòng kiểm tra lại!</name>
+    <value>Bạn chưa chọn Kiểu số dư - Vui lòng kiểm tra lại!</value>
+  </Language>
+  <Language>
+    <name>f_pthu.gcchitiet.gridColumn87</name>
+    <value>TK Có</value>
+  </Language>
+  <Language>
+    <name>f_pthu.layoutControlItem29</name>
+    <value>Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_pthu.lbtk</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu.lbltiente</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu.lblbo</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu_tt.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlGroup2</name>
+    <value>Thông tin phiếu chi</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບັນທຶກລາຍຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem5</name>
+    <value>Ngày thu</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem4</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem9</name>
+    <value>Số Hóa Đơn</value>
+    <Lao>ໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem29</name>
+    <value>Loại thu</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.colloaithue</name>
+    <value>Mục Chi phí</value>
+    <Lao>ລາຍການຄ່າໃຊ້ຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.colidpnhap</name>
+    <value>Mã Phiếu Thu</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.gcchitiet.gridColumn91</name>
+    <value>TK Có</value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.grncc</name>
+    <value>Thông Tin Đối Tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.lbltendt</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.lbltennv</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlGroup13</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ສະກຸນເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem46</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem47</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາແລກປ່ຽນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.layoutControlItem43</name>
+    <value>Mã TK</value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.lbltk</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu_tt.lblbo</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu_tt.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu_tt.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnLuu</name>
+    <value>Lưu</value>
+    <Lao>ບັນທຶກ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_pthu_tt.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_dspthu.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn5</name>
+    <value>Mã đơn vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.colid</name>
+    <value>Mã Phiếu Nhập</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.collink</name>
+    <value>Ngày nhập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn1</name>
+    <value>Nội dung</value>
+    <Lao>ເນື້ອໃນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.coliddt</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.colghichu</name>
+    <value>Thành tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn2</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn3</name>
+    <value>Mục Chi Phí</value>
+    <Lao>ລາຍການຄ່າໃຊ້ຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn4</name>
+    <value>Hóa Đơn</value>
+    <Lao>ໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn6</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.gridControl1.gridColumn7</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Lao>ເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Lao>ເຖິງ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspthu.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_dspthu.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Lao>ແຕ່</Lao>
+  </Language>
+  <Language>
+    <name>f_dspthu.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspthu.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_pchi.gcchitiet.gridColumn85</name>
+    <value>TK Nợ</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lblbo</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_pchi.layoutControlItem29</name>
+    <value>Mã TK</value>
+  </Language>
+  <Language>
+    <name>f_pchi.lbltk</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspchi.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn5</name>
+    <value>Mã đơn vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.colid</name>
+    <value>Mã Phiếu Nhập</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.collink</name>
+    <value>Ngày nhập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn1</name>
+    <value>Nội dung</value>
+    <Lao>ເນື້ອໃນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.coliddt</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.colghichu</name>
+    <value>Thành tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn2</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn3</name>
+    <value>Mục Chi Phí</value>
+    <Lao>ລາຍການຄ່າໃຊ້ຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn4</name>
+    <value>Phiếu nhập</value>
+    <Lao>ໃບບັນທຶກການນໍາເຂົ້າຂໍ້ມູນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn6</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.gridControl1.gridColumn7</name>
+    <value>Nguyên tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Lao>ເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Lao>ເຖິງ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspchi.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_dspchi.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Lao>ແຕ່</Lao>
+  </Language>
+  <Language>
+    <name>f_dspchi.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dspchi.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_hd.layoutControlItem24</name>
+    <value>Số HĐ VAT</value>
+  </Language>
+  <Language>
+    <name>f_dshd.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colid</name>
+    <value>Mã Hóa Đơn</value>
+    <Lao>ລະຫັດໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.collink</name>
+    <value>Ngày Lập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colngaynhap</name>
+    <value>Loại Hóa Đơn</value>
+    <Lao>ປະເພດໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.coliddt</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.coliddv</name>
+    <value>Mã Đơn Vị</value>
+    <Lao>ລະຫັດຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colidnv</name>
+    <value>Mã sản phẩm</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.coldv</name>
+    <value>Số lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colghichu</name>
+    <value>Thành tiền (KIP)</value>
+    <Lao>ເປັນເງິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colloainhap</name>
+    <value>Diển Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.colso</name>
+    <value>Tên Đối Tượng</value>
+    <Lao>ຊື່ເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.gridColumn1</name>
+    <value>Công việc</value>
+    <Lao>ໜ້າວຽກ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.tiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.gridColumn2</name>
+    <value>Nguyên tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.gridControl1.gridColumn3</name>
+    <value>Công Tơ</value>
+    <Lao>ກົງເຕີ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Lao>ເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Lao>ເຖິງ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dshd.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_dshd.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Lao>ແຕ່</Lao>
+  </Language>
+  <Language>
+    <name>f_dshd.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_dshd.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.ribbonPageGroup2</name>
+    <value>Tiền tệ</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.ribbonPageGroup2.barButtonItem2</name>
+    <value>Danh Mục Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_donvi.gridControl1.colid</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.gridControl1.coltendonvi</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.gridControl1.colnhomdonvi</name>
+    <value>Nhóm Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_donvi.gridControl1.coliddv</name>
+    <value>Đơn Vị Quản Lý</value>
+  </Language>
+  <Language>
+    <name>f_donvi.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_donvi.barButtonItem1</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_donvi.barButtonItem2</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_donvi.barButtonItem3</name>
+    <value>Xóa </value>
+  </Language>
+  <Language>
+    <name>f_donvi.barButtonItem4</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.layoutControlGroup1</name>
+    <value>layoutControlGroup1</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.txtid</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdonvi.layoutControlItem2</name>
+    <value>Mã Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.txtten</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdonvi.layoutControlItem3</name>
+    <value>Tên Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.layoutControlItem1</name>
+    <value>Đơn Vị Quản Lý</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.txtnhom</name>
+    <value>Cửa Hàng</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.layoutControlItem4</name>
+    <value>Nhóm Đơn Vị</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdonvi.barButtonItem1</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themdonvi.barButtonItem2</name>
+    <value>Hủy</value>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell14</name>
+    <value>[iddv] - [tendonvi]</value>
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell15</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell20</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableCell21</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTableRow7</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.xrTable7</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_doanhthu.GroupHeader2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_thcnkh.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_thcnkh.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.nguon.gridColumn8</name>
+    <value>matim</value>
+  </Language>
+  <Language>
+    <name>f_thcnkh.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell21</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell22</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell23</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell24</name>
+    <value>[nodau!n2]</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell25</name>
+    <value>[ban!n2]</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell26</name>
+    <value>[thu!n2]</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell27</name>
+    <value>[notrongky!n2]</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell28</name>
+    <value>[nocuoiky!n2]</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTable2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.pageFooterBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.txttime</name>
+    <value>Tháng 9, năm 2017</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.txtkho</name>
+    <value>Đơn vị: 00-ThatLuang, </value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrLabel46</name>
+    <value>BẢNG TỔNG HỢP CÔNG NỢ KHÁCH HÀNG</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.txtdoituong</name>
+    <value>Đối tượng: Tất cả</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.reportHeaderBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell1</name>
+    <value>STT</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell2</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell3</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell7</name>
+    <value>Nợ Đầu Kỳ</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell13</name>
+    <value>Trong Kỳ</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell15</name>
+    <value>Nợ Cuối Kỳ</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell6</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell8</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell10</name>
+    <value>Mua</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell12</name>
+    <value>Trả</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell14</name>
+    <value>Nợ</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell16</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTable1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.PageHeader</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell18</name>
+    <value>Tổng Cộng</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell19</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell20</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell29</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell30</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell31</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTable3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableCell9</name>
+    <value>NGƯỜI LẬP</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow6</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTable5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.ngay2</name>
+    <value>Ngày 12, Tháng 9, Năm 2017</value>
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTableRow8</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.xrTable4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_thcnkh.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell12</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell6</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell8</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell9</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell7</name>
+    <value>[chietkhau!n2]</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell10</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell5</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell4</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableRow1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTable1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.Detail</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel44</name>
+    <value>NO:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel46</name>
+    <value>PHIẾU XUẤT KHO</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel28</name>
+    <value>xrLabel28</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel7</name>
+    <value>Đối tượng:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel38</name>
+    <value>[ten] - [iddt]</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel35</name>
+    <value>[ngayhd!dd/MM/yyyy]</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel13</name>
+    <value>Ngày nhập:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel39</name>
+    <value>xrLabel39</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel34</name>
+    <value>xrLabel34</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel12</name>
+    <value>Nhân viên:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel21</name>
+    <value>Tiền tệ:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel43</name>
+    <value>[tiente], Tỷ giá: [tygia]</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel5</name>
+    <value>Nội dung:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel27</name>
+    <value>xrLabel27</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel33</name>
+    <value>[loaixuat]</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrLabel11</name>
+    <value>Loại nhập:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.TopMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.BottomMargin</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrPageInfo2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrPageInfo1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.pageFooterBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell13</name>
+    <value>STT</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell21</name>
+    <value>Mã SP</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell22</name>
+    <value>Tên Sp</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell23</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell24</name>
+    <value>Số Lượng</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell25</name>
+    <value>Đơn Giá</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell26</name>
+    <value>Chiết Khấu</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell27</name>
+    <value>Thuế</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell28</name>
+    <value>Nguyên Tệ</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell29</name>
+    <value>Thành Tiền (KIP)</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell30</name>
+    <value>Diển Giải</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableRow3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTable3</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.reportHeaderBand1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell11</name>
+    <value>Tổng cộng:</value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell14</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell15</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell16</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell17</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell18</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell19</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableCell20</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTableRow2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.xrTable2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>r_pxuat.ReportFooter</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_connectDB.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.btnExit</name>
+    <value>EXIT</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.btnOK</name>
+    <value>SAVE &amp;&amp; EXIT</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.label1</name>
+    <value>PETRO LAO COMPANY LIMITED</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem2</name>
+    <value>DATABASE NAME</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem3</name>
+    <value>USERNAME</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem4</name>
+    <value>PASSWORD</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.txtServer</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_connectDB.layoutControlItem7</name>
+    <value>SERVER NAME</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.rlan</name>
+    <value>LAN</value>
+  </Language>
+  <Language>
+    <name>f_connectDB.rnet</name>
+    <value>NETWORK</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapdanhmuc.ribbonPageGroup1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themsodo.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themsodo.layoutControlItem3</name>
+    <value>Vòi Bơm:</value>
+    <Lao>ມືຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.layoutControlItem2</name>
+    <value>Mã Sản phẩm</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.layoutControlItem15</name>
+    <value>Cột Bơm</value>
+    <Lao>ຫົວຈ່າຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themsodo.btnluu</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+    <Lao>ບັນທຶກ ແລະ ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.barButtonItem2</name>
+    <value>Hủy</value>
+    <Lao>ຍົກເລີກ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.barButtonItem3</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themsodo.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>f_giasp.gridControl1.colid</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.gridControl1.coltensp</name>
+    <value>Tên SP</value>
+    <Lao>ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.gridControl1.coldvt</name>
+    <value>ĐVT</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.gridControl1.colloai</name>
+    <value>Loại SP</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.gridControl1.colqlkho</name>
+    <value>Giá Bán</value>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_giasp.btnthem</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.btnxoa</name>
+    <value>Xóa </value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_giasp.barButtonItem4</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khach.layoutControlItem27</name>
+    <value>Số HĐ VAT</value>
+  </Language>
+  <Language>
+    <name>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pthu_tt.luu() in D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\GUI\f_pthu_tt.cs:line 428</name>
+    <value>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pthu_tt.luu() in D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\GUI\f_pthu_tt.cs:line 428</value>
+  </Language>
+  <Language>
+    <name>Phiếu này chưa được lưu - Bạn có muốn lưu Phiếu này trước khi thoát không?</name>
+    <value>Phiếu này chưa được lưu - Bạn có muốn lưu Phiếu này trước khi thoát không?</value>
+  </Language>
+  <Language>
+    <name>Xác nhận</name>
+    <value>Xác nhận</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Phiếu PT08_000005 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Phiếu PT08_000005 không?</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Phiếu PT08_000006 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Phiếu PT08_000006 không?</value>
+  </Language>
+  <Language>
+    <name>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pthu.luu() in D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\GUI\f_pthu.cs:line 332</name>
+    <value>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pthu.luu() in D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\GUI\f_pthu.cs:line 332</value>
+  </Language>
+  <Language>
+    <name>Bạn muốn thoát phần mềm?</name>
+    <value>Bạn muốn thoát phần mềm?</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_ctcnkh.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.nguon.gridColumn8</name>
+    <value>matim</value>
+  </Language>
+  <Language>
+    <name>f_ctcnkh.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>Mã sản phẩm không được để trống - Vui Lòng Kiểm Tra Lại</name>
+    <value>Mã sản phẩm không được để trống - Vui Lòng Kiểm Tra Lại</value>
+  </Language>
+  <Language>
+    <name>f_themgiaban.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themgiaban.layoutControlItem2</name>
+    <value>Mã Sản Phẩm</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.layoutControlItem3</name>
+    <value>Tên Sản Phẩm</value>
+    <Lao>ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.layoutControlItem15</name>
+    <value>Đơn vị tính:</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.layoutControlItem1</name>
+    <value>Giá Bán:</value>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.layoutControlItem4</name>
+    <value>Loại Sản Phẩm</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themgiaban.btnluu</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+    <Lao>ບັນທຶກ ແລະ ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.barButtonItem2</name>
+    <value>Hủy</value>
+    <Lao>ຍົກເລີກ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.barButtonItem3</name>
+    <value>Đóng</value>
+    <Lao>ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_themgiaban.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Phiếu PT00_000031 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Phiếu PT00_000031 không?</value>
+  </Language>
+  <Language>
+    <name>Không thể thao tác vì có sự liên kết - kiểm tra phiếu PT00_000036</name>
+    <value>Không thể thao tác vì có sự liên kết - kiểm tra phiếu PT00_000036</value>
+  </Language>
+  <Language>
+    <name>Không thể thao tác vì có sự liên kết - kiểm tra phiếu HD00_000034</name>
+    <value>Không thể thao tác vì có sự liên kết - kiểm tra phiếu HD00_000034</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Hoá đơn HD00_000038 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Hoá đơn HD00_000038 không?</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Hoá đơn HD00_000034 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Hoá đơn HD00_000034 không?</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa Phiếu CT00_000006 không?</name>
+    <value>Bạn có chắc chắn muốn xóa Phiếu CT00_000006 không?</value>
+  </Language>
+  <Language>
+    <name>Không thể thao tác vì có sự liên kết - kiểm tra phiếu PT00_000037</name>
+    <value>Không thể thao tác vì có sự liên kết - kiểm tra phiếu PT00_000037</value>
+  </Language>
+  <Language>
+    <name>Không thể thao tác vì có sự liên kết - kiểm tra phiếu HD00_000039</name>
+    <value>Không thể thao tác vì có sự liên kết - kiểm tra phiếu HD00_000039</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlGroup2</name>
+    <value>Thông tin hoá đơn</value>
+    <Lao>ຂໍ້ມູນຂອງໃບບິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem6</name>
+    <value>Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem5</name>
+    <value>Ngày Lập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem4</name>
+    <value>Số Hoá Đơn</value>
+    <Lao>ເລກທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem9</name>
+    <value>Loại Hoá Đơn</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem24</name>
+    <value>Mã Chốt Công Tơ</value>
+    <Lao>ການບັນທຶກກົງເຕີ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem25</name>
+    <value>Số HĐ VAT</value>
+    <Lao />
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.coldiengiai</name>
+    <value>Diễn Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colidsanpham</name>
+    <value>Mã SP</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.coltensp</name>
+    <value>Tên SP</value>
+    <Lao>ຊື່ຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.coldvt</name>
+    <value>ĐVT</value>
+    <Lao>ຫົວໜ່ວຍຄິດໄລ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.coltiente</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.gridColumn40</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colsoluong</name>
+    <value>Số Lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.coldongia</name>
+    <value>Đơn Giá</value>
+    <Lao>ຫົວໜ່ວຍລາຄາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colchietkhau</name>
+    <value>Chiết Khấu</value>
+    <Lao>ສ່ວນຫຼຸດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colloaithue</name>
+    <value>Loại Thuế</value>
+    <Lao>ປະເພດອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colthue</name>
+    <value>Tiền Thuế</value>
+    <Lao>ອາກອນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colidcv</name>
+    <value>Mã Công Việc</value>
+    <Lao>ລະຫັດວຽກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colthanhtien</name>
+    <value>Nguyên Tệ</value>
+    <Lao>ກະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.gridColumn45</name>
+    <value>Thành Tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colidhoadon</name>
+    <value>Mã Hóa Đơn</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colid</name>
+    <value>ID</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gcchitiet.colthuesuat</name>
+    <value>Thuế Suất (%)</value>
+    <Lao>ອາກອນ (%)</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.grncc</name>
+    <value>Thông Tin Đối tượng</value>
+    <Lao>ຂໍ້ມູນຂອງເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem19</name>
+    <value>Địa Chỉ</value>
+    <Lao>ທີ່ຢູ່</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem3</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.lbltendt</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlGroup3</name>
+    <value>Thông Tin Nhân Viên</value>
+    <Lao>ຂໍ້ມູນຂອງພະນັກງານ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem7</name>
+    <value>Phòng ban</value>
+    <Lao>ພະແນກ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem2</name>
+    <value>Mã Nhân Viên</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.lbltennv</name>
+    <value>Admin</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem1</name>
+    <value>Ghi Chú</value>
+    <Lao>ໝາຍເຫດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlGroup9</name>
+    <value>Loại Tiền Tệ</value>
+    <Lao>ປະເພດເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem31</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.layoutControlItem32</name>
+    <value>Tỷ Giá</value>
+    <Lao>ອັດຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.txt1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd_khachno.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnmo</name>
+    <value>Mở</value>
+    <Lao>ເປີດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnthemmoi</name>
+    <value>Thêm</value>
+    <Lao>ເພີ່ມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnLuu</name>
+    <value>Lưu &amp;&amp; Đóng</value>
+    <Lao>ບັນທຶກ ແລະ ປິດ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnsua</name>
+    <value>Sửa</value>
+    <Lao>ດັດແປງ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnxoa</name>
+    <value>Xoá</value>
+    <Lao>ລຶບ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnin</name>
+    <value>In</value>
+    <Lao>ປຣິນ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.skinBarSubItem1</name>
+    <value>skinBarSubItem1</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnnew</name>
+    <value>Thêm</value>
+    <Lao>ເພີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnload</name>
+    <value>Reload</value>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.btnthanhtoan</name>
+    <value>Thanh toán</value>
+    <Lao>ຊໍາລະ</Lao>
+  </Language>
+  <Language>
+    <name>f_hd_khachno.gia</name>
+    <value>Giá Bán</value>
+    <Lao>ລາຄາຂາຍ</Lao>
+  </Language>
+  <Language>
+    <name>Hoá đơn này chưa được lưu - Bạn có muốn lưu Hoá đơn này trước khi thoát không?</name>
+    <value>Hoá đơn này chưa được lưu - Bạn có muốn lưu Hoá đơn này trước khi thoát không?</value>
+  </Language>
+  <Language>
+    <name>f_PN.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.colid</name>
+    <value>Mã Phiếu Nhập</value>
+    <Lao>ລະຫັດ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.collink</name>
+    <value>Ngày nhập</value>
+    <Lao>ວັນທີ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.colngaynhap</name>
+    <value>Loại phiếu nhập</value>
+    <Lao>ປະເພດ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.coliddt</name>
+    <value>Mã Đối Tượng</value>
+    <Lao>ລະຫັດເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.coliddv</name>
+    <value>Mã Đơn Vị</value>
+    <Lao>ຫົວໜ່ວຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.colidnv</name>
+    <value>Mã sản phẩm</value>
+    <Lao>ລະຫັດຜະລິດຕະພັນ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.coldv</name>
+    <value>Số lượng</value>
+    <Lao>ຈໍານວນ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.colghichu</name>
+    <value>Thành tiền (KIP)</value>
+    <Lao>ເປັນເງິນ (ກີບ)</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.colloainhap</name>
+    <value>Diển Giải</value>
+    <Lao>ອະທິບາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.ten</name>
+    <value>Tên Đối Tượng</value>
+    <Lao>ຊື່ເປົ້າໝາຍ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.gridColumn1</name>
+    <value>Công Việc</value>
+    <Lao>ໜ້າວຽກ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.gridColumn2</name>
+    <value>Tiền tệ</value>
+    <Lao>ເງິນຕາ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.gridControl1.gridColumn3</name>
+    <value>Nguyên tệ</value>
+    <Lao>ສະກຸນເງິນເດີມ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.layoutControlGroup2</name>
+    <value>Chọn Thời Gian Tìm Kiếm</value>
+    <Lao>ເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.layoutControlItem2</name>
+    <value>Đến Ngày:</value>
+    <Lao>ເຖິງ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.layoutControlItem7</name>
+    <value>Khoảng thời gian:</value>
+    <Lao>ໄລຍະເວລາ</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.timkiem</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_PN.labelControl1</name>
+    <value xml:space="preserve"> </value>
+  </Language>
+  <Language>
+    <name>f_PN.layoutControlItem3</name>
+    <value>Từ Ngày:</value>
+    <Lao>ແຕ່</Lao>
+  </Language>
+  <Language>
+    <name>f_PN.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_PN.barEditItem1</name>
+    <value>barEditItem1</value>
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.gridControl1.colid</name>
+    <value>Mã Nhóm Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.gridControl1.colten</name>
+    <value>Tên Nhóm Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.btnThemNDT</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.btnSuaNDT</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_nhomdoituong.btnXoaNDT</name>
+    <value>Xoá</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colid</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colten</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colnhom</name>
+    <value>Nhóm Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colloai</name>
+    <value>Loại Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.coldiachi</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colmsthue</name>
+    <value>Mã Số Thuế</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.coldienthoai</name>
+    <value>Điện Thoại</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colemail</name>
+    <value>Email</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colfax</name>
+    <value>Fax</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.coldd</name>
+    <value>Di động</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.coltaikhoan</name>
+    <value>Tài Khoản</value>
+  </Language>
+  <Language>
+    <name>f_doituong.gridControl1.colnganhang</name>
+    <value>Ngân Hàng</value>
+  </Language>
+  <Language>
+    <name>f_doituong.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_doituong.btnThem</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_doituong.btnSua</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_doituong.btnXoa</name>
+    <value>Xóa </value>
+  </Language>
+  <Language>
+    <name>f_doituong.barButtonItem4</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_sanpham.btnthem</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.btnsua</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_sanpham.btnxoa</name>
+    <value>Xóa </value>
+  </Language>
+  <Language>
+    <name>f_sanpham.barButtonItem4</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_tiente.gridControl1.colid</name>
+    <value>Tiền Tệ</value>
+  </Language>
+  <Language>
+    <name>f_tiente.gridControl1.coltendonvi</name>
+    <value>Tỷ Giá</value>
+  </Language>
+  <Language>
+    <name>f_tiente.gridControl1.colnhomdonvi</name>
+    <value>Ghi Chú</value>
+  </Language>
+  <Language>
+    <name>f_tiente.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_tiente.btnThem</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_tiente.btnSua</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_tiente.btnXoa</name>
+    <value>Xóa </value>
+  </Language>
+  <Language>
+    <name>f_tiente.barButtonItem4</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>Bạn có chắc chắn muốn xóa tài khoản này khỏi hệ thống?</name>
+    <value>Bạn có chắc chắn muốn xóa tài khoản này khỏi hệ thống?</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_tonfifo.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_tonfifo.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn8</name>
+    <value>prd</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn9</name>
+    <value>xDate</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn10</name>
+    <value>pr</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn11</name>
+    <value>pp</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn12</name>
+    <value>Sold</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn14</name>
+    <value>iddv</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl1.gridColumn15</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl2.gridColumn16</name>
+    <value>idsp</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl2.gridColumn17</name>
+    <value>sl</value>
+  </Language>
+  <Language>
+    <name>f_tonfifo.gridControl2.gridColumn18</name>
+    <value>gt</value>
+  </Language>
+  <Language>
+    <name>.f_main_title</name>
+    <value>Cửa hàng Xăng dầu PETRO LAO</value>
+    <Vietnam>PETROLAO CO.,LTD</Vietnam>
+    <Lao>PETROLAO CO.,LTD</Lao>
+  </Language>
+  <Language>
+    <name>.f_main_btn_Wellcome</name>
+    <value>Wellcome </value>
+    <Vietnam>Xin chào </Vietnam>
+  </Language>
+  <Language>
+    <name>.f_main_btn_DonVi</name>
+    <value>Đơn vị </value>
+    <Vietnam />
+  </Language>
+  <Language>
+    <name>.f_main_btn_BoPhan</name>
+    <value>Bộ phận </value>
+  </Language>
+  <Language>
+    <name>.f_main_btn_Version</name>
+    <value>Version </value>
+    <Vietnam>Phiên bản </Vietnam>
+  </Language>
+  <Language>
+    <name>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pnhap.txttiente_EditValueChanged(Object sender, EventArgs e) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\f_pnhap.cs:line 842
+   at DevExpress.XtraEditors.Repository.RepositoryItem.RaiseEditValueChangedCore(EventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.PopupBaseAutoSearchEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.BaseEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.set_Text(String value)
+   at GUI.f_pnhap.btnxoa_ItemClick(Object sender, ItemClickEventArgs e) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\f_pnhap.cs:line 532</name>
+    <value>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pnhap.txttiente_EditValueChanged(Object sender, EventArgs e) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\f_pnhap.cs:line 842
+   at DevExpress.XtraEditors.Repository.RepositoryItem.RaiseEditValueChangedCore(EventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.PopupBaseAutoSearchEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.BaseEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.set_Text(String value)
+   at GUI.f_pnhap.btnxoa_ItemClick(Object sender, ItemClickEventArgs e) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\GUI\f_pnhap.cs:line 532</value>
+  </Language>
+  <Language>
+    <name>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pnhap.txttiente_EditValueChanged(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItem.RaiseEditValueChangedCore(EventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.PopupBaseAutoSearchEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.BaseEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.set_Text(String value)
+   at GUI.f_pnhap.btnxoa_ItemClick(Object sender, ItemClickEventArgs e)</name>
+    <value>System.NullReferenceException: Object reference not set to an instance of an object.
+   at GUI.f_pnhap.txttiente_EditValueChanged(Object sender, EventArgs e)
+   at DevExpress.XtraEditors.Repository.RepositoryItem.RaiseEditValueChangedCore(EventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.PopupBaseAutoSearchEdit.OnEditValueChanged()
+   at DevExpress.XtraEditors.BaseEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.OnEditValueChanging(ChangingEventArgs e)
+   at DevExpress.XtraEditors.TextEdit.set_Text(String value)
+   at GUI.f_pnhap.btnxoa_ItemClick(Object sender, ItemClickEventArgs e)</value>
+  </Language>
+  <Language>
+    <name>Bạn Không có quyền truy cập</name>
+    <value>Bạn Không có quyền truy cập</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.layoutControlItem2</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.layoutControlItem3</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.layoutControlItem15</name>
+    <value>Đơn vị tính:</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.checkQLK</name>
+    <value>Quản Lý Kho</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.layoutControlItem4</name>
+    <value>Loại Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themsanpham.btnluu</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.barButtonItem2</name>
+    <value>Hủy</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.barButtonItem3</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themsanpham.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem2</name>
+    <value>Mã Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem3</name>
+    <value>Tên Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem15</name>
+    <value>Loại Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem1</name>
+    <value>Nhóm Đối Tượng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem4</name>
+    <value>Địa Chỉ</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem5</name>
+    <value>Mã Số Thuế</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlGroup2</name>
+    <value>Thông tin liên lạc</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem6</name>
+    <value>Điện Thoại</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem7</name>
+    <value>Email</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem16</name>
+    <value>Di Động</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem11</name>
+    <value>Fax</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem17</name>
+    <value>Tài khoản</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.layoutControlItem18</name>
+    <value>Ngân hàng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themdoituong.btnhuy</name>
+    <value>Hủy</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.barButtonItem3</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>f_themdoituong.luu</name>
+    <value>Lưu &amp;&amp; Đóng</value>
+  </Language>
+  <Language>
+    <name>System.InvalidOperationException: Sequence contains no elements
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source, Expression`1 predicate)
+   at BUS.t_tudong.suatudong(String maphieu, Int32 so) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\t_tudong.cs:line 27
+   at BUS.t_history.add(String ma, String hoatdong) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\t_history.cs:line 32
+   at GUI.f_login.btnlogin_Click(Object sender, EventArgs e) in D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\GUI\f_login.cs:line 90
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at GUI.f_main.DangNhap() in D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\GUI\f_main.cs:line 69</name>
+    <value>System.InvalidOperationException: Sequence contains no elements
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source, Expression`1 predicate)
+   at BUS.t_tudong.suatudong(String maphieu, Int32 so) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\t_tudong.cs:line 27
+   at BUS.t_history.add(String ma, String hoatdong) in D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\t_history.cs:line 32
+   at GUI.f_login.btnlogin_Click(Object sender, EventArgs e) in D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\GUI\f_login.cs:line 90
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message&amp; m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message&amp; m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message&amp; m)
+   at System.Windows.Forms.Button.WndProc(Message&amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message&amp; m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message&amp; m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG&amp; msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at GUI.f_main.DangNhap() in D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\GUI\f_main.cs:line 69</value>
+  </Language>
+  <Language>
+    <name>f_dscct.btnin</name>
+    <value>btnin</value>
+  </Language>
+  <Language>
+    <name>f_dscct.simpleButton1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_ctcnncc.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_ctcnncc.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.nguon.gridColumn8</name>
+    <value>matim</value>
+  </Language>
+  <Language>
+    <name>f_ctcnncc.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>Cần phải chọn 1 trường dữ liệu bắt buộc: Kho</name>
+    <value>Cần phải chọn 1 trường dữ liệu bắt buộc: Kho</value>
+  </Language>
+  <Language>
+    <name>f_dscct.thu</name>
+    <value>checkBox1</value>
+  </Language>
+  <Language>
+    <name>f_doidv.gridControl1.gridColumn1</name>
+    <value>Đơn Vị Quản Lý</value>
+  </Language>
+  <Language>
+    <name>f_main.ribbon.tapchucnang.grcongto.btnkiemke</name>
+    <value>Số Liệu Kiểm Kê</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.gridControl1.colid</name>
+    <value>Mã SP</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.gridControl1.coltensp</name>
+    <value>Tên SP</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.gridControl1.coldvt</name>
+    <value>ĐVT</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.gridControl1.colqlkho</name>
+    <value>Số Lượng Kiểm Kê</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_kiemke.btnthem</name>
+    <value>Thêm</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.btnsua</name>
+    <value>Sửa</value>
+  </Language>
+  <Language>
+    <name>f_kiemke.btnxoa</name>
+    <value>Xóa </value>
+  </Language>
+  <Language>
+    <name>f_kiemke.barButtonItem4</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.layoutControlItem2</name>
+    <value>Mã Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.layoutControlItem3</name>
+    <value>Tên Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.layoutControlItem15</name>
+    <value>Đơn vị tính:</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.layoutControlItem1</name>
+    <value>Số lượng kiểm kê:</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_themkiemke.btnluu</name>
+    <value>Lưu&amp;&amp;Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.barButtonItem2</name>
+    <value>Hủy</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.barButtonItem3</name>
+    <value>Đóng</value>
+  </Language>
+  <Language>
+    <name>f_themkiemke.barButtonItem6</name>
+    <value>barButtonItem6</value>
+  </Language>
+  <Language>
+    <name>Cần phải chọn 1 trường dữ liệu bắt buộc: Sản Phẩm</name>
+    <value>Cần phải chọn 1 trường dữ liệu bắt buộc: Sản Phẩm</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_chitietnhapxuat.panelControl1</name>
+    <value />
+  </Language>
+  <Language>
+    <name>Chỉ được chọn 1 trường Sản phẩm duy nhất</name>
+    <value>Chỉ được chọn 1 trường Sản phẩm duy nhất</value>
+  </Language>
+  <Language>
+    <name>Cần phải chọn 1 trường dữ liệu bắt buộc: Hàng hoá</name>
+    <value>Cần phải chọn 1 trường dữ liệu bắt buộc: Hàng hoá</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.panelControl2</name>
+    <value />
+  </Language>
+  <Language>
+    <name>f_thuchi.simpleButton4</name>
+    <value>&lt;&lt;</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.simpleButton3</name>
+    <value>&lt;</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.simpleButton2</name>
+    <value>&gt;&gt;</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.simpleButton1</name>
+    <value>&gt;</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nhan.gridColumn4</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nhan.gridColumn5</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nhan.gridColumn6</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nhan.gridColumn7</name>
+    <value>loai</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nguon.gridColumn1</name>
+    <value>id</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nguon.gridColumn3</name>
+    <value>key</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nguon.gridColumn2</name>
+    <value>name</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.nguon.gridColumn8</name>
+    <value>matim</value>
+  </Language>
+  <Language>
+    <name>f_thuchi.panelControl1</name>
+    <value />
+  </Language>
+</NewDataSet>

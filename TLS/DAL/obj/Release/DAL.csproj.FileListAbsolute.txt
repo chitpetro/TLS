@@ -1,0 +1,10 @@
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Release\DAL.dll.config
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Release\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Release\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Release\DAL.dll.config
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Release\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Release\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\DAL\obj\Release\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\DAL\obj\Release\DAL.pdb

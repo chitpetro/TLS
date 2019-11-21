@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB68A4AA-5983-4201-82AC-F3BDD7D30971}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS</RootNamespace>
+    <AssemblyName>BUS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="c_dmloainhapve.cs" />
+    <Compile Include="c_dmloaixuatve.cs" />
+    <Compile Include="c_dmvean.cs" />
+    <Compile Include="c_pnhapvean.cs" />
+    <Compile Include="c_pxuatvean.cs" />
+    <Compile Include="thuviendocso.cs" />
+    <Compile Include="tinhthoigian.cs" />
+    <Compile Include="Candoi.cs" />
+    <Compile Include="Biencucbo.cs" />
+    <Compile Include="data_thongke.cs" />
+    <Compile Include="data_tiente.cs" />
+    <Compile Include="data_tk.cs" />
+    <Compile Include="lailo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="tinhkhauhao2.cs" />
+    <Compile Include="tinhkhauhao.cs" />
+    <Compile Include="t_chucnang.cs" />
+    <Compile Include="t_doituongbh.cs" />
+    <Compile Include="t_nhansu.cs" />
+    <Compile Include="t_pnhapbh.cs" />
+    <Compile Include="t_sodubandau.cs" />
+    <Compile Include="t_cttk.cs" />
+    <Compile Include="t_dmtaikhoan.cs" />
+    <Compile Include="t_pgiam.cs" />
+    <Compile Include="t_thetscd.cs" />
+    <Compile Include="t_pkt.cs" />
+    <Compile Include="t_pmua.cs" />
+    <Compile Include="t_dmlo.cs" />
+    <Compile Include="t_tientebh.cs" />
+    <Compile Include="t_tonsp.cs" />
+    <Compile Include="t_history.cs" />
+    <Compile Include="t_hoadon.cs" />
+    <Compile Include="t_hopdong.cs" />
+    <Compile Include="t_nhomdoituong.cs" />
+    <Compile Include="t_pchi.cs" />
+    <Compile Include="t_pnhap.cs" />
+    <Compile Include="t_pthu.cs" />
+    <Compile Include="t_gia.cs" />
+    <Compile Include="t_sanpham.cs" />
+    <Compile Include="t_account.cs" />
+    <Compile Include="t_doituong.cs" />
+    <Compile Include="t_donvi.cs" />
+    <Compile Include="ta_skin.cs" />
+    <Compile Include="t_skinabc.cs" />
+    <Compile Include="t_tiente.cs" />
+    <Compile Include="t_tudong.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{e079dbc6-30af-4e22-ac04-10171dc49294}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\Debug\BUS.dll.config" />
+    <None Include="bin\Release\BUS.dll.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\BUS.dll" />
+    <Content Include="bin\Debug\BUS.pdb" />
+    <Content Include="bin\Debug\DAL.dll" />
+    <Content Include="bin\Debug\DAL.pdb" />
+    <Content Include="bin\Release\BUS.dll" />
+    <Content Include="bin\Release\BUS.pdb" />
+    <Content Include="bin\Release\DAL.dll" />
+    <Content Include="bin\Release\DAL.pdb" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

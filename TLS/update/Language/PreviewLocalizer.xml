@@ -1,0 +1,1883 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <PreviewLocalizer name="PreviewStringId.EmptyString">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Button_Cancel">
+    <value>Cancel</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Button_Ok">
+    <value>OK</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Button_Help">
+    <value>Help</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Button_Apply">
+    <value>Apply</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PPF_Preview_Caption">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PreviewForm_Caption">
+    <value>Preview</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_CustomizeBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Customize">
+    <value>Customize</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_PrintBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Print">
+    <value>Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_PrintDirectBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_PrintDirect">
+    <value>Quick Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_PageSetupBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_PageSetup">
+    <value>Page Setup</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_MagnifierBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Magnifier">
+    <value>Magnifier</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_ZoomInBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_ZoomIn">
+    <value>Zoom In</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_ZoomOutBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_ZoomOut">
+    <value>Zoom Out</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_ZoomBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Zoom">
+    <value>Zoom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_SearchBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Search">
+    <value>Search</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_FirstPageBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_FirstPage">
+    <value>First Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_PreviousPageBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_PreviousPage">
+    <value>Previous Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_NextPageBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_NextPage">
+    <value>Next Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_LastPageBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_LastPage">
+    <value>Last Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_MultiplePagesBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_MultiplePages">
+    <value>Multiple Pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_BackGroundBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Backgr">
+    <value>Background</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_ClosePreviewBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Close">
+    <value>Close Preview</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_EditPageHFBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_EditPageHF">
+    <value>Header And Footer</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_HandToolBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_HandTool">
+    <value>Hand Tool</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_ExportBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Export">
+    <value>Export Document...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_SendBtn_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Send">
+    <value>Send via E-Mail...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_DocMap_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Map">
+    <value>Document Map</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Thumbnails">
+    <value>Thumbnails</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Parameters">
+    <value>Parameters</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_Watermark_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Watermark">
+    <value>Watermark</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Scale">
+    <value>Scale</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Open">
+    <value>Open a document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.TB_TTip_Save">
+    <value>Save the document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_PDF_Document">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_PdfDocument">
+    <value>PDF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_PageLayout">
+    <value>&amp;Page Layout</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_Text_Document">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_TxtDocument">
+    <value>Text File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_GraphicDocument">
+    <value>Image File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_CSV_Document">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_CsvDocument">
+    <value>CSV File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_MHT_Document">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_MhtDocument">
+    <value>MHT File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_Excel_Document">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_XlsDocument">
+    <value>XLS File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_XlsxDocument">
+    <value>XLSX File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_RichTextDocument">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_RtfDocument">
+    <value>RTF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_HTMLDocument">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_HtmDocument">
+    <value>HTML File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_BMP">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterBmp">
+    <value>BMP Bitmap Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_GIF">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterGif">
+    <value>GIF Graphics Interchange Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_JPEG">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterJpeg">
+    <value>JPEG File Interchange Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_PNG">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterPng">
+    <value>PNG Portable Network Graphics Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_TIFF">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterTiff">
+    <value>TIFF Tag Image File Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_EMF">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterEmf">
+    <value>EMF Enhanced Windows Metafile</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.barExport_WMF">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterWmf">
+    <value>WMF Windows Metafile</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_TotalPageNo">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_CurrentPageNo">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_PageOfPages">
+    <value>Page {0} of {1}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_ZoomFactor">
+    <value>Zoom Factor: </value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_PageNone">
+    <value>Nothing</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_PageInfo_OF">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_PageInfo">
+    <value>{0} of {1}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_PageOfPagesHint">
+    <value>Page number in document. Click to open the Go To Page dialog.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SB_TTip_Stop">
+    <value>Stop</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_PageContentEditor_Caption">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_PageNumber_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_PageOfPages_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_DatePrinted_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_TimePrinted_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_UserName_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_Image_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_FontButton">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_FooterLabel">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_HeaderLabel">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_AlignTops_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_AlignMiddles_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PCE_AlignBottoms_ToolTip">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MPE_PagesLabel">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MPForm_Lbl_Pages">
+    <value>Pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WaitForm_Caption">
+    <value>Please Wait</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_ErrorTitle">
+    <value>Error</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_EmptyDocument">
+    <value>The document does not contain any pages.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_CreatingDocument">
+    <value>Creating the document...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_ExportingDocument">
+    <value>Exporting the document...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_UnavailableNetPrinter">
+    <value>The net printer is unavailable.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_NeedPrinter">
+    <value>No printers installed.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_WrongPrinter">
+    <value>The printer name is invalid. Please check the printer settings.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_WrongPrinting">
+    <value>An error occurred during printing a document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_WrongPageSettings">
+    <value>The current printer doesn't support the selected paper size.
+Proceed with printing anyway?</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_CustomDrawWarning">
+    <value>Warning!</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_PageMarginsWarning">
+    <value>One or more margins are set outside the printable area of the page. Continue?</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_IncorrectPageRange">
+    <value>This is not a valid page range</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FontInvalidNumber">
+    <value>The font size cannot be set to zero or a negative number</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_NotSupportedFont">
+    <value>This font is not yet supported</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_IncorrectZoomFactor">
+    <value>The number must be between {0} and {1}.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvalidMeasurement">
+    <value>This is not a valid measurement.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_CannotAccessFile">
+    <value>The process cannot access the file "{0}" because it is being used by another process.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileReadOnly">
+    <value>File "{0}" is set to read-only, try again with a different file name.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_OpenFileQuestion">
+    <value>Do you want to open this file?</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_OpenFileQuestionCaption">
+    <value>Export</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_CantFitBarcodeToControlBounds">
+    <value>Control's boundaries are too small for the barcode</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvalidBarcodeText">
+    <value>There are invalid characters in the text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvalidBarcodeTextFormat">
+    <value>Invalid text format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvalidBarcodeData">
+    <value>Binary data can't be longer than 1033 bytes.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvPropName">
+    <value>Invalid property name</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_SearchDialogFinishedSearching">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_SearchDialogTotalFound">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_SearchDialogReady">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_NoDifferentFilesInStream">
+    <value>A document can't be exported to a stream in the DifferentFiles mode. Use the SingleFile or SingleFilePageByPage mode instead.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_BigFileToCreate">
+    <value>The output file is too big. Try to reduce the number of its pages, or split it into several documents.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_BigFileToCreateJPEG">
+    <value>The output file is too big to create a JPEG file. Please choose another image format or another export mode.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_BigBitmapToCreate">
+    <value>The output file is too big. Please try to reduce the image resolution,
+or choose another export mode.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_XlsMoreThanMaxRows">
+    <value>The created XLS file is too big for the XLS format, because it contains more than 65,536 rows.
+Please try to use the XLSX format, instead.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_XlsMoreThanMaxColumns">
+    <value>The created XLS file is too big for the XLS format, because it contains more than 256 columns.
+Please try to use the XLSX format, instead.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_XlsxMoreThanMaxRows">
+    <value>The created XLSX file is too big for the XLSX format, because it contains more than 1,048,576 rows.
+Please try to reduce the amount of rows in your report and export the report to XLSX again.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_XlsxMoreThanMaxColumns">
+    <value>The created XLSX file is too big for the XLSX format, because it contains more than 16,384 columns.
+Please try to reduce the amount of columns in your report and export the report to XLSX again.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileDosntHavePrnxExtention">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileDoesNotHavePrnxExtention">
+    <value>The specified file doesn't have a PRNX extension. Proceed anyway?</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileDosntContainValidXml">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileDoesNotContainValidXml">
+    <value>The specified file doesn't contain valid XML data in the PRNX format. Loading is stopped.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_GoToNonExistentPage">
+    <value>There is no page numbered {0} in this document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_Caption">
+    <value>Printing</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_PathTooLong">
+    <value>The path is too long.
+Try a shorter name.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_CannotLoadDocument">
+    <value>The specified file cannot be loaded, because it either does not contain valid XML data or exceeds the allowed size.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_NoParameters">
+    <value>The specified parameters do not exist: {0}.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_SeparatorCannotBeEmptyString">
+    <value>The separator cannot be an empty string.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_InvalidatePath">
+    <value>Cannot find the specified path.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Msg_FileAlreadyExists">
+    <value>The output file already exists. Click OK to overwrite.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_Inch">
+    <value>Inch</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_Millimeter">
+    <value>mm</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_TopMargin">
+    <value>Top Margin</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_BottomMargin">
+    <value>Bottom Margin</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_LeftMargin">
+    <value>Left Margin</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Margin_RightMargin">
+    <value>Right Margin</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Rectangle">
+    <value>Rectangle</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Ellipse">
+    <value>Ellipse</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Arrow">
+    <value>Arrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_TopArrow">
+    <value>Top Arrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_BottomArrow">
+    <value>Bottom Arrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_LeftArrow">
+    <value>Left Arrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_RightArrow">
+    <value>Right Arrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Polygon">
+    <value>Polygon</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Triangle">
+    <value>Triangle</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Square">
+    <value>Square</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Pentagon">
+    <value>Pentagon</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Hexagon">
+    <value>Hexagon</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Octagon">
+    <value>Octagon</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Star">
+    <value>Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_ThreePointStar">
+    <value>3-Point Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_FourPointStar">
+    <value>4-Point Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_FivePointStar">
+    <value>5-Point Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_SixPointStar">
+    <value>6-Point Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_EightPointStar">
+    <value>8-Point Star</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Line">
+    <value>Line</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_SlantLine">
+    <value>Slant Line</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_BackslantLine">
+    <value>Backslant Line</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_HorizontalLine">
+    <value>Horizontal Line</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_VerticalLine">
+    <value>Vertical Line</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Cross">
+    <value>Cross</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Brace">
+    <value>Brace</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Shapes_Bracket">
+    <value>Bracket</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.Page_Scroll">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScrollingInfo_Page">
+    <value>Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_PictureDlg_Title">
+    <value>Select Picture</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_ImageStretch">
+    <value>Stretch</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_ImageClip">
+    <value>Clip</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_ImageZoom">
+    <value>Zoom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Asap">
+    <value>ASAP</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Confidential">
+    <value>CONFIDENTIAL</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Copy">
+    <value>COPY</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_DoNotCopy">
+    <value>DO NOT COPY</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Draft">
+    <value>DRAFT</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Evaluation">
+    <value>EVALUATION</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Original">
+    <value>ORIGINAL</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Personal">
+    <value>PERSONAL</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Sample">
+    <value>SAMPLE</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_TopSecret">
+    <value>TOP SECRET</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Watermark_Urgent">
+    <value>URGENT</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Direction_Horizontal">
+    <value>Horizontal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Direction_Vertical">
+    <value>Vertical</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Direction_BackwardDiagonal">
+    <value>Backward Diagonal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_Direction_ForwardDiagonal">
+    <value>Forward Diagonal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_VertAlign_Bottom">
+    <value>Bottom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_VertAlign_Middle">
+    <value>Middle</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_VertAlign_Top">
+    <value>Top</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_HorzAlign_Left">
+    <value>Left</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_HorzAlign_Center">
+    <value>Center</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_HorzAlign_Right">
+    <value>Right</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_ZOrderRgrItem_InFront">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_ZOrderRgrItem_Behind">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_PageRangeRgrItem_All">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WMForm_PageRangeRgrItem_Pages">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.dlgSaveAs">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_Title">
+    <value>Save As</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterPdf">
+    <value>PDF Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterHtm">
+    <value>HTML Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterMht">
+    <value>MHT Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterRtf">
+    <value>Rich Text Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterXls">
+    <value>XLS Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterXlsx">
+    <value>XLSX Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterCsv">
+    <value>CSV Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterTxt">
+    <value>Text Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterNativeFormat">
+    <value>Native Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.SaveDlg_FilterXps">
+    <value>XPS Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_File">
+    <value>&amp;File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_View">
+    <value>&amp;View</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Background">
+    <value>&amp;Background</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_PageSetup">
+    <value>Page Set&amp;up...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Print">
+    <value>&amp;Print...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_PrintDirect">
+    <value>P&amp;rint</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Export">
+    <value>&amp;Export To</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Send">
+    <value>Sen&amp;d As</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Exit">
+    <value>E&amp;xit</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ViewToolbar">
+    <value>&amp;Toolbar</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ViewStatusbar">
+    <value>&amp;Statusbar</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ViewContinuous">
+    <value>&amp;Continuous</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ViewFacing">
+    <value>&amp;Facing</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_BackgrColor">
+    <value>&amp;Color...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Watermark">
+    <value>&amp;Watermark...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ZoomPageWidth">
+    <value>Page Width</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ZoomTextWidth">
+    <value>Text Width</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ZoomWholePage">
+    <value>Whole Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_ZoomTwoPages">
+    <value>Two Pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_Copy">
+    <value>Copy</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.MenuItem_PrintSelection">
+    <value>Print...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageNumber">
+    <value>[Page #]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageNumberOfTotal">
+    <value>[Page # of Pages #]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageTotal">
+    <value>[Pages #]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageDate">
+    <value>[Date Printed]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageTime">
+    <value>[Time Printed]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PageInfo_PageUserName">
+    <value>[User Name]</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.dlgSendFrom">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.EMail_From">
+    <value>From</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.BarText_Toolbar">
+    <value>Toolbar</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.BarText_MainMenu">
+    <value>Main Menu</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.BarText_StatusBar">
+    <value>Status Bar</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScalePopup_GroupText">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScalePopup_AdjustTo">
+    <value>Adjust to</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScalePopup_NormalSize">
+    <value>% of normal size</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScalePopup_FitTo">
+    <value>Fit to</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ScalePopup_PagesWide">
+    <value>pages wide</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfConvertImagesToJpeg">
+    <value>Convert Images to Jpeg</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfCompressed">
+    <value>Compressed</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfACompatibility">
+    <value>PDF/A-2b</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfShowPrintDialogOnOpen">
+    <value>Show print dialog on open</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfNeverEmbeddedFonts">
+    <value>Don't embed these fonts:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPasswordSecurityOptions">
+    <value>Password Security:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions">
+    <value>Digital Signature:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality">
+    <value>Images quality:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality_Lowest">
+    <value>Lowest</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality_Low">
+    <value>Low</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality_Medium">
+    <value>Medium</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality_High">
+    <value>High</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfImageQuality_Highest">
+    <value>Highest</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfDocumentAuthor">
+    <value>Author:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfDocumentApplication">
+    <value>Application:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfDocumentTitle">
+    <value>Title:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfDocumentSubject">
+    <value>Subject:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfDocumentKeywords">
+    <value>Keywords:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPrintingPermissions_None">
+    <value>None</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPrintingPermissions_LowResolution">
+    <value>Low Resolution (150 dpi)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPrintingPermissions_HighResolution">
+    <value>High Resolution</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfChangingPermissions_None">
+    <value>None</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfChangingPermissions_InsertingDeletingRotating">
+    <value>Inserting, deleting and rotating pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfChangingPermissions_FillingSigning">
+    <value>Filling in form fields and signing existing signature fields</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfChangingPermissions_CommentingFillingSigning">
+    <value>Commenting, filling in form fields, and signing existing signature fields</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfChangingPermissions_AnyExceptExtractingPages">
+    <value>Any except extracting pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmOpenPasswordForm_Caption">
+    <value>Confirm Document Open Password</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmOpenPasswordForm_Note">
+    <value>Please confirm the Document Open Password. Be sure to make a note of the password. It will be required to open the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmOpenPasswordForm_Name">
+    <value>Document Open Pa&amp;ssword:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmPermissionsPasswordForm_Caption">
+    <value>Confirm Permissions Password</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmPermissionsPasswordForm_Note">
+    <value>Please confirm the Permissions Password. Be sure to make a note of the password. You will need it to change these settings in the future.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmPermissionsPasswordForm_Name">
+    <value>&amp;Permissions Password:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ConfirmationDoesNotMatchForm_Msg">
+    <value>Confirmation password does not match. Please start over and enter the password again.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlExportMode">
+    <value>Export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlExportMode_SingleFile">
+    <value>Single file</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlExportMode_SingleFilePageByPage">
+    <value>Single file page-by-page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlExportMode_DifferentFiles">
+    <value>Different files</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlCharacterSet">
+    <value>Character set:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlTitle">
+    <value>Title:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlRemoveSecondarySymbols">
+    <value>Remove carriage returns</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlEmbedImagesInHTML">
+    <value>Embed images in HTML</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlPageBorderWidth">
+    <value>Page border width:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlPageBorderColor">
+    <value>Page border color:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlTableLayout">
+    <value>Table layout</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_HtmlExportWatermarks">
+    <value>Export watermarks</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_RtfExportMode">
+    <value>Export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_RtfExportMode_SingleFile">
+    <value>Single file</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_RtfExportMode_SingleFilePageByPage">
+    <value>Single file page-by-page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_RtfPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_RtfExportWatermarks">
+    <value>Export watermarks</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextSeparator">
+    <value>Text separator:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextSeparator_TabAlias">
+    <value>TAB</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextEncoding">
+    <value>Encoding:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextQuoteStringsWithSeparators">
+    <value>Quote strings with separators</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextExportMode">
+    <value>Text export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextExportMode_Value">
+    <value>Value</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_TextExportMode_Text">
+    <value>Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsRawDataMode">
+    <value>Raw data mode</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsShowGridLines">
+    <value>Show grid lines</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsUseNativeFormat">
+    <value>Export values using their format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsExportHyperlinks">
+    <value>Export hyperlinks</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsSheetName">
+    <value>Sheet name:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsExportMode">
+    <value>Export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsExportMode_SingleFile">
+    <value>Single file</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsExportMode_DifferentFiles">
+    <value>Different files</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsxExportMode">
+    <value>Export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsxExportMode_SingleFile">
+    <value>Single file</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsxExportMode_SingleFilePageByPage">
+    <value>Single file page-by-page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsxExportMode_DifferentFiles">
+    <value>Different files</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XlsxPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageExportMode">
+    <value>Export mode:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageExportMode_SingleFile">
+    <value>Single file</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageExportMode_SingleFilePageByPage">
+    <value>Single file page-by-page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageExportMode_DifferentFiles">
+    <value>Different files</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImagePageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImagePageBorderWidth">
+    <value>Page border width:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImagePageBorderColor">
+    <value>Page border color:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageFormat">
+    <value>Image format:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_ImageResolution">
+    <value>Resolution (dpi):</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_NativeFormatCompressed">
+    <value>Compressed</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsPageRange">
+    <value>Page range:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression">
+    <value>Compression:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression_NotCompressed">
+    <value>Not compressed</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression_Normal">
+    <value>Normal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression_Maximum">
+    <value>Maximum</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression_Fast">
+    <value>Fast</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsCompression_SuperFast">
+    <value>Super fast</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentCreator">
+    <value>Creator:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentCategory">
+    <value>Category:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentTitle">
+    <value>Title:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentSubject">
+    <value>Subject:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentKeywords">
+    <value>Keywords:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentVersion">
+    <value>Version:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_XpsDocumentDescription">
+    <value>Description:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.FolderBrowseDlg_ExportDirectory">
+    <value>Select a folder to save the exported document to:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionPdf">
+    <value>PDF Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionXls">
+    <value>XLS Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionXlsx">
+    <value>XLSX Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionTxt">
+    <value>Text Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionCsv">
+    <value>CSV Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionImage">
+    <value>Image Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionHtml">
+    <value>HTML Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionMht">
+    <value>MHT Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionRtf">
+    <value>RTF Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionNativeOptions">
+    <value>Native Format Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOptionsForm_CaptionXps">
+    <value>XPS Export Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageText">
+    <value>Print Preview</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Print">
+    <value>Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_PageSetup">
+    <value>Page Setup</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Navigation">
+    <value>Navigation</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Zoom">
+    <value>Zoom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Background">
+    <value>Page Background</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Export">
+    <value>Export</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Document">
+    <value>Document</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_Close">
+    <value>Close</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_DocumentMap_Caption">
+    <value>Bookmarks</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Parameters_Caption">
+    <value>Parameters</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Find_Caption">
+    <value>Find</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Pointer_Caption">
+    <value>Pointer</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_HandTool_Caption">
+    <value>Hand Tool</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Customize_Caption">
+    <value>Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Print_Caption">
+    <value>Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PrintDirect_Caption">
+    <value>Quick Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageSetup_Caption">
+    <value>Custom Margins...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_EditPageHF_Caption">
+    <value>Header/Footer</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Magnifier_Caption">
+    <value>Magnifier</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomOut_Caption">
+    <value>Zoom Out</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomExact_Caption">
+    <value>Exact:</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomIn_Caption">
+    <value>Zoom In</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowFirstPage_Caption">
+    <value>First Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowPrevPage_Caption">
+    <value>Previous Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowNextPage_Caption">
+    <value>Next  Page </value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowLastPage_Caption">
+    <value>Last  Page </value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_MultiplePages_Caption">
+    <value>Many Pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_FillBackground_Caption">
+    <value>Page Color</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Watermark_Caption">
+    <value>Watermark</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportFile_Caption">
+    <value>Export To</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendFile_Caption">
+    <value>E-Mail As</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ClosePreview_Caption">
+    <value>Close</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Scale_Caption">
+    <value>Scale</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageOrientation_Caption">
+    <value>Orientation</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PaperSize_Caption">
+    <value>Size</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageMargins_Caption">
+    <value>Margins</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Zoom_Caption">
+    <value>Zoom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Save_Caption">
+    <value>Save</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Open_Caption">
+    <value>Open</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Thumbnails_Caption">
+    <value>Thumbnails</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_DocumentMap_STipTitle">
+    <value>Document Map</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Parameters_STipTitle">
+    <value>Parameters</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Find_STipTitle">
+    <value>Find</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Pointer_STipTitle">
+    <value>Mouse Pointer</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_HandTool_STipTitle">
+    <value>Hand Tool</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Customize_STipTitle">
+    <value>Options</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Print_STipTitle">
+    <value>Print (Ctrl+P)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PrintDirect_STipTitle">
+    <value>Quick Print</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageSetup_STipTitle">
+    <value>Page Setup</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_EditPageHF_STipTitle">
+    <value>Header and Footer</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Magnifier_STipTitle">
+    <value>Magnifier</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomOut_STipTitle">
+    <value>Zoom Out</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomIn_STipTitle">
+    <value>Zoom In</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowFirstPage_STipTitle">
+    <value>First Page (Ctrl+Home)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowPrevPage_STipTitle">
+    <value>Previous Page (PageUp)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowNextPage_STipTitle">
+    <value>Next Page (PageDown)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowLastPage_STipTitle">
+    <value>Last Page (Ctrl+End)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_MultiplePages_STipTitle">
+    <value>View Many Pages</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_FillBackground_STipTitle">
+    <value>Background Color</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Watermark_STipTitle">
+    <value>Watermark</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportFile_STipTitle">
+    <value>Export To...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendFile_STipTitle">
+    <value>E-Mail As...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ClosePreview_STipTitle">
+    <value>Close Print Preview</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Scale_STipTitle">
+    <value>Scale</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageOrientation_STipTitle">
+    <value>Page Orientation</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PaperSize_STipTitle">
+    <value>Page Size</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageMargins_STipTitle">
+    <value>Page Margins</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Zoom_STipTitle">
+    <value>Zoom</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_PageSetup_STipTitle">
+    <value>Page Setup</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Save_STipTitle">
+    <value>Save (Ctrl + S)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Open_STipTitle">
+    <value>Open (Ctrl + O)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Thumbnails_STipTitle">
+    <value>Thumbnails</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_DocumentMap_STipContent">
+    <value>Open the Document Map, which allows you to navigate through a structural view of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Parameters_STipContent">
+    <value>Open the Parameters pane, which allows you to enter values for report parameters.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Find_STipContent">
+    <value>Show the Find dialog to find text in the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Pointer_STipContent">
+    <value>Show the mouse pointer.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_HandTool_STipContent">
+    <value>Invoke the Hand tool to manually scroll through pages.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Customize_STipContent">
+    <value>Open the Print Options dialog, in which you can change printing options.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Print_STipContent">
+    <value>Select a printer, number of copies and other printing options before printing.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PrintDirect_STipContent">
+    <value>Send the document directly to the default printer without making changes.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageSetup_STipContent">
+    <value>Show the Page Setup dialog.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_EditPageHF_STipContent">
+    <value>Edit the header and footer of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Magnifier_STipContent">
+    <value>Invoke the Magnifier tool.
+
+Clicking once on a document zooms it so that a single page becomes entirely visible, while clicking another time zooms it to 100% of the normal size.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomOut_STipContent">
+    <value>Zoom out to see more of the page at a reduced size.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ZoomIn_STipContent">
+    <value>Zoom in to get a close-up view of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowFirstPage_STipContent">
+    <value>Navigate to the first page of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowPrevPage_STipContent">
+    <value>Navigate to the previous page of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowNextPage_STipContent">
+    <value>Navigate to the next page of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ShowLastPage_STipContent">
+    <value>Navigate to the last page of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_MultiplePages_STipContent">
+    <value>Choose the page layout to arrange the document pages in preview.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_FillBackground_STipContent">
+    <value>Choose a color for the background of the document pages.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Watermark_STipContent">
+    <value>Insert ghosted text or image behind the content of a page.
+
+This is often used to indicate that a document is to be treated specially.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportFile_STipContent">
+    <value>Export the current document in one of the available formats, and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendFile_STipContent">
+    <value>Export the current document in one of the available formats, and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ClosePreview_STipContent">
+    <value>Close Print Preview of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Scale_STipContent">
+    <value>Stretch or shrink the printed output to a percentage of its actual size.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageOrientation_STipContent">
+    <value>Switch the pages between portrait and landscape layouts.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PaperSize_STipContent">
+    <value>Choose the paper size of the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageMargins_STipContent">
+    <value>Select the margin sizes for the entire document.
+
+To apply specific margin sizes to the document, click Custom Margins.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Zoom_STipContent">
+    <value>Change the zoom level of the document preview.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_PageGroup_PageSetup_STipContent">
+    <value>Show the Page Setup dialog.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Save_STipContent">
+    <value>Save the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Open_STipContent">
+    <value>Open a document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_Thumbnails_STipContent">
+    <value>Open the Thumbnails, which allows you to navigate through the document.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportPdf_Caption">
+    <value>PDF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportHtm_Caption">
+    <value>HTML File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportMht_Caption">
+    <value>MHT File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportRtf_Caption">
+    <value>RTF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXls_Caption">
+    <value>XLS File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXlsx_Caption">
+    <value>XLSX File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportCsv_Caption">
+    <value>CSV File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportTxt_Caption">
+    <value>Text File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportGraphic_Caption">
+    <value>Image File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXps_Caption">
+    <value>XPS File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendPdf_Caption">
+    <value>PDF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendMht_Caption">
+    <value>MHT File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendRtf_Caption">
+    <value>RTF File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXls_Caption">
+    <value>XLS File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXlsx_Caption">
+    <value>XLSX File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendCsv_Caption">
+    <value>CSV File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendTxt_Caption">
+    <value>Text File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendGraphic_Caption">
+    <value>Image File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXps_Caption">
+    <value>XPS File</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportPdf_Description">
+    <value>Adobe Portable Document Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportHtm_Description">
+    <value>Web Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportTxt_Description">
+    <value>Plain Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportCsv_Description">
+    <value>Comma-Separated Values Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportMht_Description">
+    <value>Single File Web Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXls_Description">
+    <value>Microsoft Excel 2000-2003 Workbook</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXlsx_Description">
+    <value>Microsoft Excel 2007 Workbook</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportRtf_Description">
+    <value>Rich Text Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportGraphic_Description">
+    <value>BMP, GIF, JPEG, PNG, TIFF, EMF, WMF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXps_Description">
+    <value>XPS</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendPdf_Description">
+    <value>Adobe Portable Document Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendTxt_Description">
+    <value>Plain Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendCsv_Description">
+    <value>Comma-Separated Values Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendMht_Description">
+    <value>Single File Web Page</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXls_Description">
+    <value>Microsoft Excel 2000-2003 Workbook</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXlsx_Description">
+    <value>Microsoft Excel 2007 Workbook</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendRtf_Description">
+    <value>Rich Text Format</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendGraphic_Description">
+    <value>BMP, GIF, JPEG, PNG, TIFF, EMF, WMF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXps_Description">
+    <value>XPS</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportPdf_STipTitle">
+    <value>Export to PDF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportHtm_STipTitle">
+    <value>Export to HTML</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportTxt_STipTitle">
+    <value>Export to Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportCsv_STipTitle">
+    <value>Export to CSV</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportMht_STipTitle">
+    <value>Export to MHT</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXls_STipTitle">
+    <value>Export to XLS</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXlsx_STipTitle">
+    <value>Export to XLSX</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportRtf_STipTitle">
+    <value>Export to RTF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportGraphic_STipTitle">
+    <value>Export to Image</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendPdf_STipTitle">
+    <value>E-Mail As PDF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendTxt_STipTitle">
+    <value>E-Mail As Text</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendCsv_STipTitle">
+    <value>E-Mail As CSV</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendMht_STipTitle">
+    <value>E-Mail As MHT</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXls_STipTitle">
+    <value>E-Mail As XLS</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXlsx_STipTitle">
+    <value>E-Mail As XLSX</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendRtf_STipTitle">
+    <value>E-Mail As RTF</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendGraphic_STipTitle">
+    <value>E-Mail As Image</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportPdf_STipContent">
+    <value>Export the document to PDF and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportHtm_STipContent">
+    <value>Export the document to HTML and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportTxt_STipContent">
+    <value>Export the document to Text and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportCsv_STipContent">
+    <value>Export the document to CSV and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportMht_STipContent">
+    <value>Export the document to MHT and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXls_STipContent">
+    <value>Export the document to XLS and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportXlsx_STipContent">
+    <value>Export the document to XLSX and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportRtf_STipContent">
+    <value>Export the document to RTF and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_ExportGraphic_STipContent">
+    <value>Export the document to Image and save it to the file on a disk.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendPdf_STipContent">
+    <value>Export the document to PDF and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendTxt_STipContent">
+    <value>Export the document to Text and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendCsv_STipContent">
+    <value>Export the document to CSV and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendMht_STipContent">
+    <value>Export the document to MHT and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXls_STipContent">
+    <value>Export the document to XLS and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendXlsx_STipContent">
+    <value>Export the document to XLSX and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendRtf_STipContent">
+    <value>Export the document to RTF and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_SendGraphic_STipContent">
+    <value>Export the document to Image and attach it to the e-mail.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageOrientationPortrait_Caption">
+    <value>Portrait</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageOrientationLandscape_Caption">
+    <value>Landscape</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsNormal_Caption">
+    <value>Normal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsNarrow_Caption">
+    <value>Narrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsModerate_Caption">
+    <value>Moderate</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsWide_Caption">
+    <value>Wide</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageOrientationPortrait_Description">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageOrientationLandscape_Description">
+    <value />
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsNormal_Description">
+    <value>Normal</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsNarrow_Description">
+    <value>Narrow</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsModerate_Description">
+    <value>Moderate</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMarginsWide_Description">
+    <value>Wide</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PageMargins_Description">
+    <value>Top:		{0}		Bottom:		{1}
+Left:		 {2}		Right:		   {3}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.RibbonPreview_GalleryItem_PaperSize_Description">
+    <value>{0} x {1}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.OpenFileDialog_Filter">
+    <value>Preview Document Files (*{0})|*{0}|All Files (*.*)|*.*</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.OpenFileDialog_Title">
+    <value>Open</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPasswordSecurityOptions_DocumentOpenPassword">
+    <value>Document Open Password</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPasswordSecurityOptions_Permissions">
+    <value>Permissions</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfPasswordSecurityOptions_None">
+    <value>(none)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ParametersRequest_Submit">
+    <value>Submit</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ParametersRequest_Reset">
+    <value>Reset</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ParametersRequest_Caption">
+    <value>Parameters</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.NoneString">
+    <value>(none)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WatermarkTypePicture">
+    <value>(Picture)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.WatermarkTypeText">
+    <value>(Text)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ParameterLookUpSettingsNoLookUp">
+    <value>No Look-Up</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions_Certificate">
+    <value>Certificate</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions_Reason">
+    <value>Reason</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions_Location">
+    <value>Location</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions_ContactInfo">
+    <value>Contact Info</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignatureOptions_None">
+    <value>(none)</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignature_EmptyCertificate">
+    <value>None</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignature_Issuer">
+    <value>Issuer: </value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.ExportOption_PdfSignature_ValidRange">
+    <value>Valid From: {0:d} to {1:d}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.NetworkPrinterFormat">
+    <value>{0} on {1}</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Busy">
+    <value>The printer is busy.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_DoorOpen">
+    <value>The printer door is open.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_DriverUpdateNeeded">
+    <value>The printer driver needs to be updated.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Error">
+    <value>Error</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Initializing">
+    <value>Initializing the Preview...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_IOActive">
+    <value>The printer's input/output is active.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_ManualFeed">
+    <value>The manual feed is enabled.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_NotAvailable">
+    <value>The printer is not available.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_NoToner">
+    <value>The printer has no toner.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Offline">
+    <value>The printer is offline.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_OutOfMemory">
+    <value>The printer is out of memory.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_OutputBinFull">
+    <value>The output bin is full.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PagePunt">
+    <value>A page punt has occurred.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PaperJam">
+    <value>The paper has jammed.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PaperOut">
+    <value>The printer is out of paper.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PaperProblem">
+    <value>A paper-related problem has occurred.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Paused">
+    <value>The printer is paused.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PendingDeletion">
+    <value>Print task deletion is pending.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_PowerSave">
+    <value>The power save mode is on.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Printing">
+    <value>Printing...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Processing">
+    <value>Processing...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Ready">
+    <value>The printer is ready.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_ServerOffline">
+    <value>The server is offline.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_ServerUnknown">
+    <value>The server is unknown.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_TonerLow">
+    <value>The toner is low.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_UserIntervention">
+    <value>A user intervention has occurred.</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_Waiting">
+    <value>Waiting...</value>
+  </PreviewLocalizer>
+  <PreviewLocalizer name="PreviewStringId.PrinterStatus_WarmingUp">
+    <value>The printer is warming up.</value>
+  </PreviewLocalizer>
+</NewDataSet>

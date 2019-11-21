@@ -1,0 +1,425 @@
+D:\VS\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\VS\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\VS\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\VS\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\VS\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\VS\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+E:\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+E:\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+E:\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+E:\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+E:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+E:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+G:\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+G:\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+G:\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+G:\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+G:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+G:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+G:\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\VS\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\VS\2906 code\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\VS\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\VS\2906 code\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.dll
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.pdb
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.dll
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.pdb
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.dll
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\BUS.pdb
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.dll
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\bin\Debug\DAL.pdb
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.dll
+D:\VS\ThatLuangPlaza - Copy (2)\BUS\obj\Debug\BUS.pdb
+D:\VS\08072017\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\VS\08072017\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\VS\08072017\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\VS\08072017\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\VS\08072017\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\08072017\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\VS\08072017\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\VS\ban skin\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\VS\ban skin\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\VS\ban skin\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\VS\ban skin\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\VS\ban skin\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\ban skin\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\VS\ban skin\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\VS\NEW\ThatLuangPlaza\BUS\bin\Debug\BUS.dll
+D:\VS\NEW\ThatLuangPlaza\BUS\bin\Debug\BUS.pdb
+D:\VS\NEW\ThatLuangPlaza\BUS\bin\Debug\DAL.dll
+D:\VS\NEW\ThatLuangPlaza\BUS\bin\Debug\DAL.pdb
+D:\VS\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.dll
+D:\VS\NEW\ThatLuangPlaza\BUS\obj\Debug\BUS.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\11092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\21092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+F:\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\obj\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\BUS\bin\Debug\BUS.dll.config
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\bin\Debug\BUS.dll.config
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\bin\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\bin\Debug\BUS.pdb
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\obj\Debug\BUS.dll
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\03102017\PLS\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\12102017\03102017\PLS\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\WinForm\TLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\WinForm\TLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\WinForm\TLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\WinForm\TLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\TLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\TLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\WinForm\TLS\BUS\obj\Debug\BUS.pdb
+E:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.dll
+E:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.pdb
+E:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.dll.config
+E:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.dll
+E:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.pdb
+E:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\DAL.dll
+E:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code TLS\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code TLS\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\TLS\Code TLS\TLS\BUS\obj\Debug\BUS.pdb
+E:\HOCTAP\TEST\tls moi\TLS\BUS\bin\Debug\BUS.dll.config
+E:\HOCTAP\TEST\tls moi\TLS\BUS\bin\Debug\BUS.dll
+E:\HOCTAP\TEST\tls moi\TLS\BUS\bin\Debug\BUS.pdb
+E:\HOCTAP\TEST\tls moi\TLS\BUS\bin\Debug\DAL.dll
+E:\HOCTAP\TEST\tls moi\TLS\BUS\bin\Debug\DAL.pdb
+E:\HOCTAP\TEST\tls moi\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HOCTAP\TEST\tls moi\TLS\BUS\obj\Debug\BUS.dll
+E:\HOCTAP\TEST\tls moi\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 2\28022018\tls moi\TLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\TLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\TEST\TLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\TEST\TLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\TLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\TEST\TLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\17052018\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 05\29052018\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\29052018\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\11062018\TLS\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS can chinh sua\TLS\BUS\obj\Debug\BUS.pdb
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\bin\Debug\BUS.dll.config
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\bin\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\bin\Debug\BUS.pdb
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\obj\Debug\BUS.dll
+D:\HOCTAP\TEST\TLS da chinh sua\TLS\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Thang 06\28062018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\07072018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 07\19072018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\ThatLuangPlaza\Code TLS\Tháng 08\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 08\15082018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\15082018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\01092018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 09\30092018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 10\29102018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\01112018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\05112018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\Tháng 11\Bản cho POS TL\08112018\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 03\19032019\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\tháng 04\01042019\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 05\3005219\BUS\obj\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\bin\Debug\BUS.dll.config
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\bin\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\bin\Debug\BUS.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\bin\Debug\DAL.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\obj\Debug\BUS.dll
+F:\Solution\winform\Code\TLS_ok\Code TLS\2019\Tháng 06\17062019\BUS\obj\Debug\BUS.pdb

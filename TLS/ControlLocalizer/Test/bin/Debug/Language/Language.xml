@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Language>
+    <name>Form1.gridControl1.gridColumn1</name>
+    <value>Cột 1</value>
+    <Vietnam>col 1</Vietnam>
+  </Language>
+  <Language>
+    <name>Form1.gridControl1.gridColumn2</name>
+    <value>Cột 2</value>
+    <Vietnam>col 2</Vietnam>
+  </Language>
+  <Language>
+    <name>Form1.gridControl1.gridColumn3</name>
+    <value>Cột 3</value>
+    <Vietnam>col 3</Vietnam>
+  </Language>
+  <Language>
+    <name>Form1.gridControl1.gridColumn4</name>
+    <value>Cột 4</value>
+  </Language>
+  <Language>
+    <name>Form1.labelControl4</name>
+    <value>Label 3</value>
+  </Language>
+  <Language>
+    <name>Form1.labelControl3</name>
+    <value>Label 2</value>
+  </Language>
+  <Language>
+    <name>Form1.labelControl2</name>
+    <value>Label 1</value>
+  </Language>
+  <Language>
+    <name>Form1.labelControl1</name>
+    <value>Ngôn ngữ</value>
+  </Language>
+  <Language>
+    <name>Form1.btnTool</name>
+    <value>Mở tool dịch</value>
+  </Language>
+  <Language>
+    <name>Form1.simpleButton3</name>
+    <value>Nút 3</value>
+  </Language>
+  <Language>
+    <name>Form1.simpleButton2</name>
+    <value>Nút 2</value>
+  </Language>
+  <Language>
+    <name>Form1.simpleButton1</name>
+    <value>Nút 1</value>
+  </Language>
+  <Language>
+    <name>FrmMain.Root</name>
+    <value>Root</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem1</name>
+    <value>Đường dẫn</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnSave</name>
+    <value>Lưu</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnActive</name>
+    <value>Kích hoạt</value>
+  </Language>
+  <Language>
+    <name>FrmMain.layoutControlItem5</name>
+    <value>Ngôn ngữ</value>
+  </Language>
+  <Language>
+    <name>FrmMain.btnShowPreviewer</name>
+    <value>Mở previewer</value>
+  </Language>
+</NewDataSet>
